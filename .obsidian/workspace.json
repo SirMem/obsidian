@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "085626dd3774670e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-输出/2卡片笔记/用SSH密钥进行github身份认证_卡片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-输出/2卡片笔记/用SSH密钥进行github身份认证_卡片.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-输出/2卡片笔记/用SSH密钥进行github身份认证_卡片.md"
-              }
+              "state": {}
             }
           },
           {
@@ -251,8 +256,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "640bb735cb22da2e",
+  "active": "085626dd3774670e",
   "lastOpenFiles": [
+    "0-assets/excalidraw/github提交整个过程excalidraw.md",
     "2-输出/2卡片笔记/用SSH密钥进行github身份认证_卡片.md",
     "HOMEPAGE.md",
     "0-assets/bookmaster/book-data/00/sQVOyYDVdnpnOWJv.md",
@@ -280,7 +286,6 @@
     "2-输出/2卡片笔记/线程的学习路线_卡片.md",
     "2-输出/2卡片笔记/lambda_卡片.md",
     "2-输出/4重述笔记/导数与微分_重述.md",
-    "0-assets/dataview/math卡片.md",
     "4-成果/MOC",
     "4-成果/未命名",
     "0-assets/周笔记",
