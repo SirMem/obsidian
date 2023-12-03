@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5145d9b3ecda2d10",
+        "id": "405836d3e7b44b44",
         "type": "tabs",
         "children": [
           {
-            "id": "640bb735cb22da2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-输出/2卡片笔记/用SSH密钥进行github身份认证_卡片.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "085626dd3774670e",
+            "id": "1e48188d57a6525a",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "this指针",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "412d8f501c97366c",
@@ -256,36 +244,36 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "085626dd3774670e",
+  "active": "1e48188d57a6525a",
   "lastOpenFiles": [
-    "0-assets/excalidraw/github提交整个过程excalidraw.md",
-    "2-输出/2卡片笔记/用SSH密钥进行github身份认证_卡片.md",
+    "2-输出/2卡片笔记/用数组实现栈_卡片.md",
+    "2-输出/2卡片笔记/用链表实现栈_卡片.md",
+    "2-输出/2卡片笔记/项目的克隆与提交_卡片.md",
+    "4-成果/MOC/Git.md",
+    "4-成果/MOC/数据结构.md",
+    "4-成果/MOC/C++.md",
+    "4-成果/MOC/高数上册MOC.md",
+    "4-成果/MOC/Obsidian.md",
+    "4-成果/MOC/个人成长.md",
+    "4-成果/MOC/社会主义人物.md",
+    "4-成果/MOC/C语言.md",
     "HOMEPAGE.md",
-    "0-assets/bookmaster/book-data/00/sQVOyYDVdnpnOWJv.md",
-    "0-assets/bookmaster/book-data/00/JNpkCoDGzpwZPFvZ.md",
-    "0-assets/bookmaster/book-data/00/igdhWbBxYiIJEeVd.md",
+    "0-assets/dataview/C语言_卡片.md",
+    "2-输出/2卡片笔记/数组表示法和指针表示法的区别_卡片.md",
+    "2-输出/2卡片笔记/字符串和字符串函数_卡片.md",
+    "2-输出/2卡片笔记/单向链表_卡片.md",
+    "0-assets/dataview/C++ 卡片.md",
+    "2-输出/2卡片笔记/异常处理_卡片.md",
+    "2-输出/2卡片笔记/C++内容检索_卡片.md",
+    "4-成果/1.2 todoist与obsidian的联用.md",
+    "0-assets/dataview/卡片.md",
+    "2-输出/2卡片笔记/可移植性_卡片.md",
+    "2-输出/2卡片笔记/分配内存_卡片.md",
+    "2-输出/2卡片笔记/函数、数组和指针_卡片.md",
+    "2-输出/4重述笔记/函数_重述.md",
+    "2-输出/2卡片笔记/word转PPT_卡片.md",
     "1-输入/1-原始资料/书籍/vbird-linux-basic-4e.pdf",
     "1-输入/1-原始资料/书籍/Thomas_calculus_14th_En.pdf",
-    "3-任务/2023-11-06.md",
-    "3-任务/2023-09-24.md",
-    "3-任务/2023-09-21.md",
-    "Readme.md",
-    "0-assets/dataview/C语言_卡片.md",
-    "0-assets/dataview/mindmap.md",
-    "2-输出/2卡片笔记/左值和右值_卡片.md",
-    "0-assets/word/review.md",
-    "2-输出/2卡片笔记/多态_卡片.md",
-    "2-输出/2卡片笔记/RTTI_卡片.md",
-    "2-输出/2卡片笔记/强制转换符cast_卡片.md",
-    "4-成果/MOC/C++.md",
-    "2-输出/2卡片笔记/类型双关_卡片.md",
-    "2-输出/4重述笔记/指针_重述.md",
-    "2-输出/2卡片笔记/计时_卡片.md",
-    "2-输出/2卡片笔记/using和命名空间_卡片.md",
-    "4-成果/MOC/高数上册MOC.md",
-    "2-输出/2卡片笔记/线程的学习路线_卡片.md",
-    "2-输出/2卡片笔记/lambda_卡片.md",
-    "2-输出/4重述笔记/导数与微分_重述.md",
     "4-成果/MOC",
     "4-成果/未命名",
     "0-assets/周笔记",

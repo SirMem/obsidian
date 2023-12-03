@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "github提交整个过程excalidraw",
-      "path": "0-assets/excalidraw/github提交整个过程excalidraw.md"
+      "basename": "用数组实现栈_卡片",
+      "path": "2-输出/2卡片笔记/用数组实现栈_卡片.md"
+    },
+    {
+      "basename": "用链表实现栈_卡片",
+      "path": "2-输出/2卡片笔记/用链表实现栈_卡片.md"
+    },
+    {
+      "basename": "项目的克隆与提交_卡片",
+      "path": "2-输出/2卡片笔记/项目的克隆与提交_卡片.md"
+    },
+    {
+      "basename": "Git",
+      "path": "4-成果/MOC/Git.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "4-成果/MOC/数据结构.md"
+    },
+    {
+      "basename": "C++",
+      "path": "4-成果/MOC/C++.md"
+    },
+    {
+      "basename": "高数上册MOC",
+      "path": "4-成果/MOC/高数上册MOC.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "4-成果/MOC/Obsidian.md"
+    },
+    {
+      "basename": "个人成长",
+      "path": "4-成果/MOC/个人成长.md"
+    },
+    {
+      "basename": "社会主义人物",
+      "path": "4-成果/MOC/社会主义人物.md"
+    },
+    {
+      "basename": "C语言",
+      "path": "4-成果/MOC/C语言.md"
+    },
+    {
+      "basename": "HOMEPAGE",
+      "path": "HOMEPAGE.md"
+    },
+    {
+      "basename": "C语言_卡片",
+      "path": "0-assets/dataview/C语言_卡片.md"
+    },
+    {
+      "basename": "C++ 卡片",
+      "path": "0-assets/dataview/C++ 卡片.md"
+    },
+    {
+      "basename": "1.2 todoist与obsidian的联用",
+      "path": "4-成果/1.2 todoist与obsidian的联用.md"
+    },
+    {
+      "basename": "卡片",
+      "path": "0-assets/dataview/卡片.md"
+    },
+    {
+      "basename": "重述",
+      "path": "0-assets/dataview/重述.md"
+    },
+    {
+      "basename": "栈_卡片",
+      "path": "2-输出/2卡片笔记/栈_卡片.md"
+    },
+    {
+      "basename": "学习之道书籍阅读",
+      "path": "2-输出/2卡片笔记/学习之道书籍阅读.md"
     },
     {
       "basename": "用SSH密钥进行github身份认证_卡片",
       "path": "2-输出/2卡片笔记/用SSH密钥进行github身份认证_卡片.md"
     },
     {
-      "basename": "HOMEPAGE",
-      "path": "HOMEPAGE.md"
+      "basename": "github提交整个过程excalidraw",
+      "path": "0-assets/excalidraw/github提交整个过程excalidraw.md"
     },
     {
       "basename": "2023-11-05",
@@ -49,10 +121,6 @@
       "path": "2-输出/2卡片笔记/强制转换符cast_卡片.md"
     },
     {
-      "basename": "C++",
-      "path": "4-成果/MOC/C++.md"
-    },
-    {
       "basename": "类型双关_卡片",
       "path": "2-输出/2卡片笔记/类型双关_卡片.md"
     },
@@ -67,10 +135,6 @@
     {
       "basename": "using和命名空间_卡片",
       "path": "2-输出/2卡片笔记/using和命名空间_卡片.md"
-    },
-    {
-      "basename": "高数上册MOC",
-      "path": "4-成果/MOC/高数上册MOC.md"
     },
     {
       "basename": "线程的学习路线_卡片",
@@ -105,10 +169,6 @@
       "path": "0-assets/excalidraw/互联网技术excalidraw.md"
     },
     {
-      "basename": "C++ 卡片",
-      "path": "0-assets/dataview/C++ 卡片.md"
-    },
-    {
       "basename": "报告系统",
       "path": "0-assets/工作区/报告系统.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "周检视模版",
       "path": "0-assets/template/周检视模版.md"
-    },
-    {
-      "basename": "自动创建时间和识别标题的yaml代码模版",
-      "path": "0-assets/template/自动创建时间和识别标题的yaml代码模版.md"
-    },
-    {
-      "basename": "2023-11-20",
-      "path": "2-输出/1闪念笔记/2023-11-20.md"
-    },
-    {
-      "basename": "git_卡片",
-      "path": "2-输出/2卡片笔记/git_卡片.md"
-    },
-    {
-      "basename": "数据结构绪论_卡片",
-      "path": "2-输出/2卡片笔记/数据结构绪论_卡片.md"
-    },
-    {
-      "basename": "算法时间复杂度_卡片",
-      "path": "2-输出/2卡片笔记/算法时间复杂度_卡片.md"
-    },
-    {
-      "basename": "算法空间复杂度_卡片",
-      "path": "2-输出/2卡片笔记/算法空间复杂度_卡片.md"
-    },
-    {
-      "basename": "C++的栈和堆_卡片",
-      "path": "2-输出/2卡片笔记/C++的栈和堆_卡片.md"
-    },
-    {
-      "basename": "如何处理多返回值_卡片",
-      "path": "2-输出/2卡片笔记/如何处理多返回值_卡片.md"
-    },
-    {
-      "basename": "2023-11-30今日总结",
-      "path": "2-输出/6每日总结/2023-11-30今日总结.md"
-    },
-    {
-      "basename": "函数的极值_卡片",
-      "path": "2-输出/2卡片笔记/函数的极值_卡片.md"
-    },
-    {
-      "basename": "学习路线excalidraw",
-      "path": "0-assets/excalidraw/学习路线excalidraw.md"
-    },
-    {
-      "basename": "数组、vertor.array_卡片",
-      "path": "2-输出/2卡片笔记/数组、vertor.array_卡片.md"
-    },
-    {
-      "basename": "源文件到可执行文件excalidraw",
-      "path": "0-assets/excalidraw/源文件到可执行文件excalidraw.md"
-    },
-    {
-      "basename": "栈、堆、内存在动态分配的情况excalidraw",
-      "path": "0-assets/excalidraw/栈、堆、内存在动态分配的情况excalidraw.md"
-    },
-    {
-      "basename": "栈和堆excalidraw",
-      "path": "0-assets/excalidraw/栈和堆excalidraw.md"
     }
   ],
   "omittedPaths": [],

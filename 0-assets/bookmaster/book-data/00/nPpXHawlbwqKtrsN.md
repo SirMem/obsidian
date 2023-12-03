@@ -8,7 +8,7 @@ ext: pdf
 visual: false
 type: unknown
 status: reading
-progress: 1297
+progress: 70
 authors: []
 tags: []
 total: 1635

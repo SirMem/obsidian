@@ -2,39 +2,73 @@
   "items": [
     {
       "type": "file",
-      "ctime": 1695187144508,
-      "path": "2-输出/2卡片笔记/学习之道书籍阅读.md"
-    },
-    {
-      "type": "group",
-      "ctime": 1695625571902,
-      "items": [],
-      "title": "未命名组"
-    },
-    {
-      "type": "file",
       "ctime": 1695625574377,
       "path": "1-输入/1-原始资料/书籍/普林斯顿微积分读本.pdf"
     },
     {
       "type": "group",
-      "ctime": 1695804069626,
+      "ctime": 1701575233977,
       "items": [
         {
-          "type": "group",
-          "ctime": 1695804088591,
-          "items": [
-            {
-              "type": "file",
-              "ctime": 1697290077686,
-              "path": "1-输入/2-碎片笔记/1外刊/Coding was Hard Until I Learned These 2 Things!.md",
-              "subpath": "#^228d9b"
-            }
-          ],
-          "title": "1-英语"
+          "type": "file",
+          "ctime": 1701575277154,
+          "path": "2-输出/2卡片笔记/栈_卡片.md",
+          "title": ""
         }
       ],
-      "title": "书籍"
+      "title": "待完成组"
+    },
+    {
+      "type": "group",
+      "ctime": 1701575245254,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1701576813629,
+          "path": "2-输出/2卡片笔记/C++的动态分配内存和释放内存_卡片.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701576881674,
+          "path": "2-输出/2卡片笔记/this指针_卡片.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701576899431,
+          "path": "2-输出/2卡片笔记/strcpy_卡片.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701576914985,
+          "path": "2-输出/2卡片笔记/size_t_卡片.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701576940159,
+          "path": "2-输出/2卡片笔记/内联函数_卡片.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701576961942,
+          "path": "2-输出/2卡片笔记/内核空间和用户空间_卡片.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701576985229,
+          "path": "2-输出/2卡片笔记/word转PPT_卡片.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701577030460,
+          "path": "2-输出/2卡片笔记/函数、数组和指针_卡片.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701577041022,
+          "path": "2-输出/2卡片笔记/分配内存_卡片.md"
+        }
+      ],
+      "title": "待重述组"
     }
   ]
 }

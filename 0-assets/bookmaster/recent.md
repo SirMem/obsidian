@@ -1,2 +1,3 @@
 - [C Primer Plus 第6版 中文版](obsidian://bookmaster?type=open-book&bid=nPpXHawlbwqKtrsN)
+- [12个宝贵的人生经验](obsidian://bookmaster?type=open-book&bid=fLghZnFNrHCGBUAH)
 - [大话数据结构_4](obsidian://bookmaster?type=open-book&bid=dqpasEqelmapoFsu)
