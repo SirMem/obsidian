@@ -1,3 +1,5 @@
+- [高等数学 第七版 上册 习题全解指南 同济](obsidian://bookmaster?type=open-book&bid=gBPDxperRACpOGrO)
+- [C++面向对象高效编程第2版](obsidian://bookmaster?type=open-book&bid=ZFzzKjZThIKjEbMT)
 - [C Primer Plus 第6版 中文版](obsidian://bookmaster?type=open-book&bid=nPpXHawlbwqKtrsN)
 - [12个宝贵的人生经验](obsidian://bookmaster?type=open-book&bid=fLghZnFNrHCGBUAH)
 - [大话数据结构_4](obsidian://bookmaster?type=open-book&bid=dqpasEqelmapoFsu)

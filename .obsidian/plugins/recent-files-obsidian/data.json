@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
+      "basename": "C++",
+      "path": "4-成果/MOC/C++.md"
+    },
+    {
+      "basename": "C++的内存管理_重述",
+      "path": "2-输出/4重述笔记/C++的内存管理_重述.md"
+    },
+    {
+      "basename": "this指针_重述",
+      "path": "2-输出/4重述笔记/this指针_重述.md"
+    },
+    {
+      "basename": "链式调用_重述",
+      "path": "2-输出/4重述笔记/链式调用_重述.md"
+    },
+    {
+      "basename": "HOMEPAGE",
+      "path": "HOMEPAGE.md"
+    },
+    {
+      "basename": "static 模版excalidraw",
+      "path": "0-assets/excalidraw/static 模版excalidraw.md"
+    },
+    {
+      "basename": "STL的思维导图excalidraw",
+      "path": "0-assets/excalidraw/STL的思维导图excalidraw.md"
+    },
+    {
+      "basename": "布局操作",
+      "path": "0-assets/excalidraw/布局操作.md"
+    },
+    {
+      "basename": "复合函数导数(微分法)excalidraw",
+      "path": "0-assets/excalidraw/复合函数导数(微分法)excalidraw.md"
+    },
+    {
+      "basename": "互联网技术excalidraw",
+      "path": "0-assets/excalidraw/互联网技术excalidraw.md"
+    },
+    {
+      "basename": "链表excalidraw",
+      "path": "0-assets/excalidraw/链表excalidraw.md"
+    },
+    {
+      "basename": "内存excalidraw",
+      "path": "0-assets/excalidraw/内存excalidraw.md"
+    },
+    {
+      "basename": "求导excalidraw",
+      "path": "0-assets/excalidraw/求导excalidraw.md"
+    },
+    {
+      "basename": "微分excalidraw",
+      "path": "0-assets/excalidraw/微分excalidraw.md"
+    },
+    {
+      "basename": "学习路线excalidraw",
+      "path": "0-assets/excalidraw/学习路线excalidraw.md"
+    },
+    {
+      "basename": "源文件到可执行文件excalidraw",
+      "path": "0-assets/excalidraw/源文件到可执行文件excalidraw.md"
+    },
+    {
+      "basename": "栈和堆excalidraw",
+      "path": "0-assets/excalidraw/栈和堆excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-10-08 15.30.50.excalidraw",
+      "path": "0-assets/excalidraw/Drawing 2023-10-08 15.30.50.excalidraw.md"
+    },
+    {
+      "basename": "栈、堆、内存在动态分配的情况excalidraw",
+      "path": "0-assets/excalidraw/栈、堆、内存在动态分配的情况excalidraw.md"
+    },
+    {
       "basename": "用数组实现栈_卡片",
       "path": "2-输出/2卡片笔记/用数组实现栈_卡片.md"
     },
@@ -21,10 +101,6 @@
       "path": "4-成果/MOC/数据结构.md"
     },
     {
-      "basename": "C++",
-      "path": "4-成果/MOC/C++.md"
-    },
-    {
       "basename": "高数上册MOC",
       "path": "4-成果/MOC/高数上册MOC.md"
     },
@@ -43,10 +119,6 @@
     {
       "basename": "C语言",
       "path": "4-成果/MOC/C语言.md"
-    },
-    {
-      "basename": "HOMEPAGE",
-      "path": "HOMEPAGE.md"
     },
     {
       "basename": "C语言_卡片",
@@ -101,10 +173,6 @@
       "path": "3-任务/2023-09-21.md"
     },
     {
-      "basename": "Readme",
-      "path": "Readme.md"
-    },
-    {
       "basename": "左值和右值_卡片",
       "path": "2-输出/2卡片笔记/左值和右值_卡片.md"
     },
@@ -127,78 +195,6 @@
     {
       "basename": "指针_重述",
       "path": "2-输出/4重述笔记/指针_重述.md"
-    },
-    {
-      "basename": "计时_卡片",
-      "path": "2-输出/2卡片笔记/计时_卡片.md"
-    },
-    {
-      "basename": "using和命名空间_卡片",
-      "path": "2-输出/2卡片笔记/using和命名空间_卡片.md"
-    },
-    {
-      "basename": "线程的学习路线_卡片",
-      "path": "2-输出/2卡片笔记/线程的学习路线_卡片.md"
-    },
-    {
-      "basename": "lambda_卡片",
-      "path": "2-输出/2卡片笔记/lambda_卡片.md"
-    },
-    {
-      "basename": "工作区",
-      "path": "0-assets/工作区/工作区.md"
-    },
-    {
-      "basename": "math卡片",
-      "path": "0-assets/dataview/math卡片.md"
-    },
-    {
-      "basename": "MOC模版",
-      "path": "0-assets/template/MOC模版.md"
-    },
-    {
-      "basename": "上册",
-      "path": "4-成果/2.1数学/上册.md"
-    },
-    {
-      "basename": "极限_卡片",
-      "path": "2-输出/2卡片笔记/极限_卡片.md"
-    },
-    {
-      "basename": "互联网技术excalidraw",
-      "path": "0-assets/excalidraw/互联网技术excalidraw.md"
-    },
-    {
-      "basename": "报告系统",
-      "path": "0-assets/工作区/报告系统.md"
-    },
-    {
-      "basename": "2023-W48",
-      "path": "0-assets/周笔记/2023-W48.md"
-    },
-    {
-      "basename": "2023-12-01",
-      "path": "2-输出/1闪念笔记/2023-12-01.md"
-    },
-    {
-      "basename": "2023-10-06",
-      "path": "2-输出/1闪念笔记/2023-10-06.md"
-    },
-    {
-      "basename": "2023-11-30",
-      "path": "2-输出/1闪念笔记/2023-11-30.md"
-    },
-    {
-      "basename": "今日总结模版",
-      "path": "0-assets/template/今日总结模版.md"
-    },
-    {
-      "basename": "2023-11-27",
-      "path": "2-输出/1闪念笔记/2023-11-27.md"
-    },
-    {
-      "basename": "周检视模版",
-      "path": "0-assets/template/周检视模版.md"
     }
   ],
   "omittedPaths": [],

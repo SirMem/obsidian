@@ -8,7 +8,7 @@ ext: pdf
 visual: false
 type: unknown
 status: reading
-progress: 27
+progress: 30
 authors: []
 tags: []
 rating: 0

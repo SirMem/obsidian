@@ -4,18 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "405836d3e7b44b44",
+        "id": "7fb8d86a9c5fe26d",
         "type": "tabs",
         "children": [
           {
-            "id": "1e48188d57a6525a",
+            "id": "004a59e99e27bb9b",
+            "type": "leaf",
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "ZFzzKjZThIKjEbMT",
+                "viewerState": {
+                  "page": 30
+                }
+              }
+            }
+          },
+          {
+            "id": "206e3b18f9b22e0f",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "KJdQhHRJfoHFmNEL",
+                "viewerState": {
+                  "page": 200
+                }
+              }
+            }
+          },
+          {
+            "id": "6d5c0c11d841c75e",
+            "type": "leaf",
+            "dimension": 33.333333333333336,
+            "state": {
+              "type": "bm-book-view",
+              "state": {
+                "bid": "wTvUVExcRTruCbOS",
+                "viewerState": {
+                  "page": 266
+                }
+              }
+            }
+          },
+          {
+            "id": "3eefe8613e6ab85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7e94cb95868f797",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -78,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "412d8f501c97366c",
@@ -98,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a702fa5512199db6",
@@ -244,34 +296,35 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1e48188d57a6525a",
+  "active": "c7e94cb95868f797",
   "lastOpenFiles": [
-    "2-输出/2卡片笔记/用数组实现栈_卡片.md",
-    "2-输出/2卡片笔记/用链表实现栈_卡片.md",
-    "2-输出/2卡片笔记/项目的克隆与提交_卡片.md",
-    "4-成果/MOC/Git.md",
-    "4-成果/MOC/数据结构.md",
+    "Readme.md",
     "4-成果/MOC/C++.md",
-    "4-成果/MOC/高数上册MOC.md",
-    "4-成果/MOC/Obsidian.md",
-    "4-成果/MOC/个人成长.md",
-    "4-成果/MOC/社会主义人物.md",
-    "4-成果/MOC/C语言.md",
+    "0-assets/bookmaster/book-data/00/KJdQhHRJfoHFmNEL.md",
+    "2-输出/2卡片笔记/链式调用_卡片.md",
+    "2-输出/4重述笔记/C++的内存管理_重述.md",
+    "2-输出/4重述笔记/this指针_重述.md",
+    "2-输出/4重述笔记/链式调用_重述.md",
     "HOMEPAGE.md",
-    "0-assets/dataview/C语言_卡片.md",
-    "2-输出/2卡片笔记/数组表示法和指针表示法的区别_卡片.md",
-    "2-输出/2卡片笔记/字符串和字符串函数_卡片.md",
-    "2-输出/2卡片笔记/单向链表_卡片.md",
-    "0-assets/dataview/C++ 卡片.md",
-    "2-输出/2卡片笔记/异常处理_卡片.md",
-    "2-输出/2卡片笔记/C++内容检索_卡片.md",
-    "4-成果/1.2 todoist与obsidian的联用.md",
-    "0-assets/dataview/卡片.md",
-    "2-输出/2卡片笔记/可移植性_卡片.md",
-    "2-输出/2卡片笔记/分配内存_卡片.md",
-    "2-输出/2卡片笔记/函数、数组和指针_卡片.md",
-    "2-输出/4重述笔记/函数_重述.md",
-    "2-输出/2卡片笔记/word转PPT_卡片.md",
+    "0-assets/word/review.md",
+    "2-输出/2卡片笔记/用数组实现栈_卡片.md",
+    "0-assets/dataview/重述.md",
+    "0-assets/dataview/计算机.md",
+    "2-输出/2卡片笔记/this指针_卡片.md",
+    "0-assets/附件/Pasted image 20231203170501.png",
+    "0-assets/excalidraw/static 模版excalidraw.md",
+    "0-assets/excalidraw/STL的思维导图excalidraw.md",
+    "0-assets/excalidraw/布局操作.md",
+    "0-assets/excalidraw/复合函数导数(微分法)excalidraw.md",
+    "0-assets/excalidraw/互联网技术excalidraw.md",
+    "0-assets/excalidraw/华为云开发excalidraw.md",
+    "0-assets/excalidraw/链表excalidraw.md",
+    "0-assets/excalidraw/内存excalidraw.md",
+    "0-assets/excalidraw/求导excalidraw.md",
+    "0-assets/excalidraw/微分excalidraw.md",
+    "0-assets/excalidraw/学习路线excalidraw.md",
+    "0-assets/excalidraw/源文件到可执行文件excalidraw.md",
+    "0-assets/excalidraw/栈和堆excalidraw.md",
     "1-输入/1-原始资料/书籍/vbird-linux-basic-4e.pdf",
     "1-输入/1-原始资料/书籍/Thomas_calculus_14th_En.pdf",
     "4-成果/MOC",
@@ -291,7 +344,6 @@
     "0-assets/附件/Pasted Image 20231125212137_242.png",
     "0-assets/附件/Pasted Image 20231125211729_832.png",
     "0-assets/附件/Pasted image 20231125210558.png",
-    "0-assets/附件/Pasted image 20231125210230.png",
     "2-输出/3mindmap/未命名.canvas",
     "2-输出/3mindmap/未命名 1.canvas",
     "2-输出/3mindmap/树状数据术语的理解.canvas",

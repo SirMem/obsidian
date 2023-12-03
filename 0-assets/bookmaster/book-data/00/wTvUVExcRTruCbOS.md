@@ -7,6 +7,10 @@ name: Thomas_calculus_14th_En
 ext: pdf
 visual: false
 type: unknown
-status: unread
-progress: 122
+status: reading
+progress: 266
+authors: []
+tags: []
+rating: 0
+total: 1241
 ---
