@@ -1,0 +1,967 @@
+{
+  "choices": [
+    {
+      "id": "1edd65f0-e4eb-4a30-aa32-7c9b3f26afa7",
+      "name": "todoist",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "#模版 #TASK\n# 📖今日任务管理系统\n> [!todoist]\n> ```todoist\n> name: \"\"\n> filter: \"today\"\n\n# 今天已做任务记录\n%% COMPLETED_TODOIST_TASKS_START %%\n\n%% COMPLETED_TODOIST_TASKS_END %%"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "ddc8b986-f5af-4441-8396-56f740681953",
+      "name": "侧边栏",
+      "type": "Macro",
+      "command": true,
+      "macroId": "12ab5648-df84-4d5a-ba2b-b6d8d77fb495"
+    },
+    {
+      "id": "59672f5a-4fe9-485d-8a2d-f096dc75f99a",
+      "name": "文字隐藏:鼠标悬停",
+      "type": "Macro",
+      "command": true,
+      "macroId": "61f044f4-200a-469c-afcc-e3201fc5d2a8"
+    },
+    {
+      "id": "95ef61dd-500f-45c2-9083-5162ddcfbd0b",
+      "name": "网页内容剪切",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "1-输入/2-碎片笔记/2网页剪切/{{value:网页剪切名}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "0-assets/template/网页剪切内容模版.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# 📘剪切内容",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "dbdac3ed-1f17-43f5-bb27-2d3542b572ce",
+      "name": "标签名添加",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n- {{value:请输入标签名}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "tags:",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "76c0159f-00c1-4870-b396-fafb81669921",
+      "name": "article",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "1-输入/2-碎片笔记/1外刊/{{value:外刊名}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "0-assets/template/英语阅读系统模版.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "^^^article",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "11a12bae-6376-4425-a707-6d96f2f0adb3",
+      "name": "快捷键",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "161188b1-575a-4651-9cbb-dfff0c73e51b",
+          "name": "今日总结",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "2-输出/6每日总结/{{DATE:YYYY-MM-DD}}今日总结.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "0-assets/template/今日总结模版.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": " \n- {{value:请输入标签，若有多个标签则一个空格隔开}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "tags:",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "d571b11a-068e-403f-8f18-752c3e9447a9",
+          "name": "Tasks",
+          "type": "Template",
+          "command": true,
+          "templatePath": "0-assets/template/任务模版.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "3-任务/{{DATE:YYYY-MM-DD}}.md"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [
+              ""
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "fb934b37-a128-4961-8aa3-9b1cfd517f0d",
+          "name": "文章剪切_Macro",
+          "type": "Macro",
+          "command": true,
+          "macroId": "5d59dba1-779f-4b88-84cd-d997135fbd75"
+        },
+        {
+          "id": "9dcd9b4d-bcf4-4f5a-86f6-ee2db3784f86",
+          "name": "Memo闪念",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "2-输出/1闪念笔记/{{DATE:YYYY-MM-DD}}.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "0-assets/template/闪念模版.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "- {{DATE:HH:mm}} {{VALUE}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📖闪念",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "62e06475-1646-49da-9f9a-6441675e8aba",
+          "name": "Anki",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "2-输出/5问答笔记/Anki_{{value:问答卡片名}}.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "0-assets/template/问答笔记.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "tags: {{value:请输入标签，若有多个标签则一个逗号隔开继续输入}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "title:",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "b6732c50-664e-48cb-823e-383188501533",
+          "name": "网页内容剪切_macros",
+          "type": "Macro",
+          "command": true,
+          "macroId": "261b97a3-dee2-4320-9b7d-d0357df8b3af"
+        },
+        {
+          "id": "13711b5a-57d1-45da-8ecf-f117af27383f",
+          "name": "重述笔记",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "2-输出/4重述笔记/{{value:重述笔记名字}}_重述.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "0-assets/template/重述笔记模版.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": " \n- {{value:请输入标签，若有多个标签则一个空格隔开}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "tags:",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "f0edc1ad-eec5-4b10-812d-2c5b00482587",
+          "name": "笔记内容摘录",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "2-输出/2卡片笔记/{{value:卡片名}}_卡片.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "0-assets/template/摘录笔记模版.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": " \n- {{value:请输入标签，若有多个标签则一个空格隔开}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "tags:",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "8d81218e-d300-40a6-843b-85e0aa6b100f",
+          "name": "目前学习阶段思维导图(别填信息)",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "2-输出/3mindmap/目前知识图.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": false,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "bad5c315-82bf-45bf-afd5-6e562900b8b6",
+      "name": "思维导图",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "2-输出/3mindmap/mindmap_{{value:思维导图名}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "0-assets/template/思维导图模版.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": " \n- {{value:请输入标签，若有多个标签则一个空格隔开}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "tags:",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "10df7e20-65a5-43df-81d9-a4f396a918ef",
+      "name": "关系笔记",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "2-输出/7关系笔记/Connect_{{value:关系笔记}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "0-assets/template/关系笔记模版.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": " \n- {{value:请输入标签，若有多个标签则一个空格隔开}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "tags:",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "4d81b9e5-8d07-48ae-8a73-292b2f39f0e9",
+      "name": "视频笔记",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "2-输出/8视频笔记/video_{{value:videoname}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "0-assets/template/视频笔记模版.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n- {{value:请输入标签}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "tags:",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c0e81ede-ec0b-4b4a-8734-5911a8bd3f39",
+      "name": "今日总结",
+      "type": "Template",
+      "command": true,
+      "templatePath": "0-assets/template/今日总结模版.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "2-输出/6每日总结/{{DATE:YYYY-MM-DD}}今日总结.md"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "155c722a-dbf8-4094-80cc-1c3975882594",
+      "name": "excalidraw创建",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "0-assets/excalidraw/{{value:画板名}}excalidraw.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "---\ndue: <% tp.date.now(\"yyyy-MM-DD\") %> \nexcalidraw-plugin: parsed\ntags: excalidraw {{value:标签}}\n\n---\n==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==\n\n\n%%\n# Drawing\n```json\n{\"type\":\"excalidraw\",\"version\":2,\"source\":\"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23\",\"elements\":[],\"appState\":{\"gridSize\":null,\"viewBackgroundColor\":\"#ffffff\"}}\n```\n%%"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "823cf297-9832-4dd1-8b1e-53a336b2597d",
+      "name": "英语句子笔记模版",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "6d6177f3-f1b8-43af-98a3-6d974b2fb6ad",
+          "name": "英语句子笔记_T",
+          "type": "Template",
+          "command": true,
+          "templatePath": "0-assets/template/英语句子笔记记录模版.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "2-输出/9单词句子/{{value:请输入主题名}}.md"
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "75b2aa00-fea0-46d7-9cc7-0078839b082c",
+          "name": "英语句子笔记",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "## {{value:请输入时间段}}\n{{value:请输入句子}} \n```ad-translation\n{{value:请输入翻译}}\n```\n> "
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "d234182f-8331-4666-8d32-6beb971cfc7d",
+      "name": "ANKICARD",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "63955522-4380-4dc9-a184-5cb2c86d0f9c",
+          "name": "add card",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "#card"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "5eed61a7-9b1b-45e6-86a1-239781f05887",
+          "name": "Anki",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "2-输出/5问答笔记/Anki_{{value:请输入卡片名}}.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "---\ndue: <% tp.date.now(\"yyyy-MM-DD\") %> \n<%* let title = tp.file.title \nif (title.startsWith(\"Untitled\")){ title = await tp.system.prompt(\"Title\"); await tp.file.rename(title); } %>\ntitle: <% title%>\ntags: {{value:请输入标签，若有多个标签则一个逗号隔开继续输}} \n---\n\n\n#card\n\n"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "974efed5-6cb6-462c-b4b2-152db40393c9",
+      "name": "遗忘系统",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "1-输入/5-遗忘系统/{{value:请输入月}}月开学第{{value:请输入学期的第几周}}周遗忘记录.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "---\ndue: <% tp.date.now(\"yyyy-MM-DD\") %> \n<%* let title = tp.file.title \nif (title.startsWith(\"Untitled\")){ title = await tp.system.prompt(\"Title\"); await tp.file.rename(title); } %>\ntitle: <% title%>\ntags: 遗忘记录\n---\n\n\n\n\n\n\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "712124c1-f240-4b4e-b1c8-a9579927419c",
+      "name": "MOC",
+      "type": "Template",
+      "command": true,
+      "templatePath": "0-assets/template/MOC模版.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "4-成果/MOC/{{value:请输入MOC名字}}MOC.md"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "侧边栏",
+      "id": "12ab5648-df84-4d5a-ba2b-b6d8d77fb495",
+      "commands": [
+        {
+          "name": "折叠/展开左侧边栏",
+          "type": "Obsidian",
+          "id": "ec25acc3-f15d-49e3-86b4-31c6cba36fae",
+          "commandId": "app:toggle-left-sidebar"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "0cb1907c-0201-4857-b18a-02f8ce3c38e2",
+          "time": 100
+        },
+        {
+          "name": "折叠/展开右侧边栏",
+          "type": "Obsidian",
+          "id": "6b3f4ead-08f3-45f5-8644-4f5293b7b5d2",
+          "commandId": "app:toggle-right-sidebar"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "文字隐藏:鼠标悬停",
+      "id": "61f044f4-200a-469c-afcc-e3201fc5d2a8",
+      "commands": [
+        {
+          "name": "添加删除线",
+          "type": "Obsidian",
+          "id": "1268cfd7-e561-46e8-92fa-da466847c7a7",
+          "commandId": "editor:toggle-strikethrough"
+        },
+        {
+          "name": "倾斜/取消倾斜",
+          "type": "Obsidian",
+          "id": "cff4705c-fb5e-4aae-98fd-255b8742b904",
+          "commandId": "editor:toggle-italics"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "excalidraw文件创建",
+      "id": "153f91b3-179e-452a-a869-c26e0b0f6f27",
+      "commands": [
+        {
+          "name": "Excalidraw: 新建绘图 - 于新页签",
+          "type": "Obsidian",
+          "id": "2f59eefd-f240-4682-80b6-d5a7877fca5f",
+          "commandId": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "网页剪切",
+      "id": "261b97a3-dee2-4320-9b7d-d0357df8b3af",
+      "commands": [
+        {
+          "name": "QuickAdd: 网页内容剪切",
+          "type": "Obsidian",
+          "id": "93e74e65-7662-4ad7-8db8-4c2a26da5827",
+          "commandId": "quickadd:choice:95ef61dd-500f-45c2-9083-5162ddcfbd0b"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "文章摘录",
+      "id": "5d59dba1-779f-4b88-84cd-d997135fbd75",
+      "commands": [
+        {
+          "name": "QuickAdd: article",
+          "type": "Obsidian",
+          "id": "275946c5-4658-4152-9a39-5dff29771ed4",
+          "commandId": "quickadd:choice:76c0159f-00c1-4870-b396-fafb81669921"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "79319df3-3f51-48e3-b5f0-1f1c4b25a1e2",
+          "time": 5000
+        },
+        {
+          "name": "QuickAdd: 标签名添加",
+          "type": "Obsidian",
+          "id": "ac4df40e-fb68-4cfd-81c3-f120c3348435",
+          "commandId": "quickadd:choice:dbdac3ed-1f17-43f5-bb27-2d3542b572ce"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "遗忘系统",
+      "id": "4b68c6bf-7cd9-4a7f-9d23-cecc3f5cc5ba",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "0c88c664-9837-4b58-a251-bc401b1ddf82",
+          "choice": {
+            "id": "9e1456c0-945a-41ef-9662-45b28b044283",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "multi-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.6.0",
+  "disableOnlineFeatures": false,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a16da214c7ff10f2","x":-860,"y":-160,"width":905,"height":1028,"type":"group","label":"内存IC"},
+		{"id":"09698637d08404cc","x":-840,"y":-120,"width":865,"height":580,"type":"text","text":"![[0-assets/bookmaster/book-images/00/odMhPeJMviKOBVVb-6b76556a-e231-8c12-cdec-80cb2b98af15.png]]"},
+		{"id":"26f58829655f50d9","x":-803,"y":460,"width":791,"height":348,"type":"text","text":"首先给VCC接通+5V的电源，给GND接通OV的电源，使用AO-A9\n来指定数据的存储场所，然后再把数据的值输入给DO-D7的数据信号，\n并把WwR(write)的值置为1，执行完这些操作后，即可以向内存C写入数\n据读出数据时，只需要通过A0-A9的地址信号指定数据的存储场所，然后再将RD的值置为1即可。"}
+	],
+	"edges":[]
+}

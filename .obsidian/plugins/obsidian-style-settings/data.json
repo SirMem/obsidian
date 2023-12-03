@@ -1,0 +1,20 @@
+{
+  "minimal-style@@h1-color@@light": "#FFFFFF",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "floating-toc-styles@@toggle-floating-toc-header-color": true,
+  "floating-toc-styles@@floating-toc-color-h1@@light": "#DD1515",
+  "floating-toc-styles@@floating-toc-color-h1@@dark": "#E10707",
+  "floating-toc-styles@@floating-toc-color-h2@@dark": "#20E60D",
+  "floating-toc-styles@@floating-toc-color-h3@@dark": "#A2B369",
+  "floating-toc-styles@@floating-toc-color-h4@@dark": "#C11CC8",
+  "floating-toc-styles@@floating-toc-color-h5@@dark": "#CCCD3D",
+  "floating-toc-styles@@floating-toc-color-h6@@dark": "#56B1DA",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-peach",
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": false,
+  "anuppuccin-theme-settings@@anp-print": false,
+  "anuppuccin-theme-settings@@anp-cursor": "pointer",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight"
+}

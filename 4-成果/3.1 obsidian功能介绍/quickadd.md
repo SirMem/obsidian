@@ -1,0 +1,1 @@
+quick capture format嵌入模版，而不是使用模版功能，以使用多个输入功能

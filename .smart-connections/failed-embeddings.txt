@@ -1,0 +1,1699 @@
+
+0-assets/Tasks/电影工作法.md
+0-assets/Website/Cubox.md
+0-assets/Website/Website.md
+0-assets/Website/carbon 代码高亮分享.md
+0-assets/Website/vika.md
+0-assets/Website/历史上的今天.md
+0-assets/Website/文本处理-textce.md
+0-assets/Website/正则表达式验证.md
+0-assets/Website/表格转换-tableconvert.md
+0-assets/bookmaster/book-data/00/AvfSIBdgvxQhEKXm.md
+0-assets/bookmaster/book-data/00/JDPebptzKqrcCCtu.md
+0-assets/bookmaster/book-data/00/JoGRSMGYrQsSpcEg.md
+0-assets/bookmaster/book-data/00/JtbsKFltHJxQbBsT.md
+0-assets/bookmaster/book-data/00/OFlWNbuBqdLBqwqb.md
+0-assets/bookmaster/book-data/00/QeWtistHhtuxOaAe.md
+0-assets/bookmaster/book-data/00/QzMJDmwKAufhkOtY.md
+0-assets/bookmaster/book-data/00/ZFzzKjZThIKjEbMT.md
+0-assets/bookmaster/book-data/00/ckgcJovfPaFKVPrs.md
+0-assets/bookmaster/book-data/00/dqpasEqelmapoFsu.md
+0-assets/bookmaster/book-data/00/elOBBtCRzFfBEZpe.md
+0-assets/bookmaster/book-data/00/fLghZnFNrHCGBUAH.md
+0-assets/bookmaster/book-data/00/gBPDxperRACpOGrO.md
+0-assets/bookmaster/book-data/00/gvrkmkqkXNMfowDj.md
+0-assets/bookmaster/book-data/00/hGJWHSjSmLTBjDqX.md
+0-assets/bookmaster/book-data/00/jMZEIdiApBGxauwI.md
+0-assets/bookmaster/book-data/00/jMdWTrFzNAwbrDBj.md
+0-assets/bookmaster/book-data/00/kEzwKdqKGhNmaoAU.md
+0-assets/bookmaster/book-data/00/lHVfKcYLSfmRnxzy.md
+0-assets/bookmaster/book-data/00/nPpXHawlbwqKtrsN.md
+0-assets/bookmaster/book-data/00/odMhPeJMviKOBVVb.md
+0-assets/bookmaster/book-data/00/olTakphBEWzNSoux.md
+0-assets/bookmaster/book-data/00/qQPKUxZamUBzDhXS.md
+0-assets/bookmaster/book-data/00/wTvUVExcRTruCbOS.md
+0-assets/bookmaster/recent.md
+0-assets/dataview/Anki.md
+0-assets/dataview/C++ 卡片.md
+0-assets/dataview/C语言_卡片.md
+0-assets/dataview/C语言_重述.md
+0-assets/dataview/excalidraw.md
+0-assets/dataview/math.md
+0-assets/dataview/math卡片.md
+0-assets/dataview/mindmap.md
+0-assets/dataview/书籍信息显示系统.md
+0-assets/dataview/卡片.md
+0-assets/dataview/外刊.md
+0-assets/dataview/计算机.md
+0-assets/dataview/重述.md
+0-assets/excalidraw/11/10计算机导论excalidraw.md
+0-assets/excalidraw/11/10计算机导论excalidraw.md#Drawing
+0-assets/excalidraw/11/10计算机导论excalidraw.md#Text Elements
+0-assets/excalidraw/Drawing 2023-10-08 15.30.50.excalidraw.md
+0-assets/excalidraw/Drawing 2023-11-05 16.11.33.excalidraw.md
+0-assets/excalidraw/Drawing 2023-11-05 16.11.33.excalidraw.md#Drawing
+0-assets/excalidraw/Drawing 2023-11-05 16.11.33.excalidraw.md#Text Elements
+0-assets/excalidraw/Drawing 2023-11-05 16.49.44.excalidraw.md
+0-assets/excalidraw/Drawing 2023-11-05 17.35.06.excalidraw.md
+0-assets/excalidraw/Drawing 2023-11-12 16.18.45.excalidraw.md
+0-assets/excalidraw/Drawing 2023-11-12 16.18.45.excalidraw.md#Drawing
+0-assets/excalidraw/Drawing 2023-11-12 16.18.45.excalidraw.md#Embedded files
+0-assets/excalidraw/Drawing 2023-11-12 16.18.45.excalidraw.md#Text Elements
+0-assets/excalidraw/STL的思维导图excalidraw.md
+0-assets/excalidraw/STL的思维导图excalidraw.md#Drawing
+0-assets/excalidraw/STL的思维导图excalidraw.md#Text Elements
+0-assets/excalidraw/Scripts/Box Selected Elements.md
+0-assets/excalidraw/gitexcalidraw.md
+0-assets/excalidraw/gitexcalidraw.md#Drawing
+0-assets/excalidraw/gitexcalidraw.md#Embedded files
+0-assets/excalidraw/static 模版excalidraw.md
+0-assets/excalidraw/static 模版excalidraw.md#Drawing
+0-assets/excalidraw/static 模版excalidraw.md#Embedded files
+0-assets/excalidraw/static 模版excalidraw.md#Text Elements
+0-assets/excalidraw/互联网技术excalidraw.md
+0-assets/excalidraw/互联网技术excalidraw.md#Drawing
+0-assets/excalidraw/互联网技术excalidraw.md#Text Elements
+0-assets/excalidraw/内存excalidraw.md
+0-assets/excalidraw/内存excalidraw.md#Drawing
+0-assets/excalidraw/内存excalidraw.md#Embedded files
+0-assets/excalidraw/内存excalidraw.md#Text Elements
+0-assets/excalidraw/华为云开发excalidraw.md
+0-assets/excalidraw/华为云开发excalidraw.md#Drawing
+0-assets/excalidraw/华为云开发excalidraw.md#Embedded files
+0-assets/excalidraw/复合函数导数(微分法)excalidraw.md
+0-assets/excalidraw/复合函数导数(微分法)excalidraw.md#Drawing
+0-assets/excalidraw/复合函数导数(微分法)excalidraw.md#Embedded files
+0-assets/excalidraw/学习路线excalidraw.md
+0-assets/excalidraw/学习路线excalidraw.md#Drawing
+0-assets/excalidraw/学习路线excalidraw.md#Text Elements
+0-assets/excalidraw/布局操作.md
+0-assets/excalidraw/布局操作.md#Drawing
+0-assets/excalidraw/布局操作.md#Embedded files
+0-assets/excalidraw/微分excalidraw.md
+0-assets/excalidraw/微分excalidraw.md#Drawing
+0-assets/excalidraw/微分excalidraw.md#Text Elements
+0-assets/excalidraw/微分中值定理excalidraw.md
+0-assets/excalidraw/微分中值定理excalidraw.md#Drawing
+0-assets/excalidraw/微分中值定理excalidraw.md#Embedded files
+0-assets/excalidraw/微分中值定理excalidraw.md#Text Elements
+0-assets/excalidraw/抽象数据类型excalidraw.md
+0-assets/excalidraw/抽象数据类型excalidraw.md#Drawing
+0-assets/excalidraw/抽象数据类型excalidraw.md#Text Elements
+0-assets/excalidraw/栈、堆、内存在动态分配的情况excalidraw.md
+0-assets/excalidraw/栈、堆、内存在动态分配的情况excalidraw.md#Drawing
+0-assets/excalidraw/栈、堆、内存在动态分配的情况excalidraw.md#Embedded files
+0-assets/excalidraw/栈、堆、内存在动态分配的情况excalidraw.md#Text Elements
+0-assets/excalidraw/栈和堆excalidraw.md
+0-assets/excalidraw/栈和堆excalidraw.md#Drawing
+0-assets/excalidraw/栈和堆excalidraw.md#Text Elements#栈和堆的使用区别 ^Z8aJmL1W
+0-assets/excalidraw/栈和堆excalidraw.md#Text Elements#栈和堆的定义 ^Bh0ildS9
+0-assets/excalidraw/求导excalidraw.md
+0-assets/excalidraw/求导excalidraw.md#Drawing
+0-assets/excalidraw/求导excalidraw.md#Text Elements
+0-assets/excalidraw/源文件到可执行文件excalidraw.md
+0-assets/excalidraw/源文件到可执行文件excalidraw.md#Drawing
+0-assets/excalidraw/源文件到可执行文件excalidraw.md#Embedded files
+0-assets/excalidraw/迭代器excalidraw.md
+0-assets/excalidraw/迭代器excalidraw.md#Drawing
+0-assets/excalidraw/迭代器excalidraw.md#Embedded files
+0-assets/excalidraw/迭代器excalidraw.md#Text Elements
+0-assets/excalidraw/链表excalidraw.md
+0-assets/excalidraw/链表excalidraw.md#Drawing
+0-assets/excalidraw/链表excalidraw.md#Embedded files
+0-assets/excalidraw/链表excalidraw.md#Text Elements
+0-assets/excalidraw/链表excalidraw.md#删除操作(根据节点数据域的值进行删除) ^vbv0G4MD
+0-assets/excalidraw/链表excalidraw.md#插入操作(根据节点数据进行插入) ^BcPBLdFF
+0-assets/excalidraw/链表excalidraw.md#销毁操作 ^iVNUPnqW
+0-assets/script/TasksTimeline/README.md
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#A custom view build with [Obsidian-Dataview](https://github.com/blacksmithgu/obsidian-dataview) to display tasks from [Obsidian-Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) and from your daily notes in a highly customisable timeline
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Focussing
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Note colors
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Optional parameters#dailyNoteFolder:
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Optional parameters#dailyNoteFormat:
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Optional parameters#done:
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Optional parameters#globalTaskFilter:
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Optional parameters#options:
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Optional parameters#sort:
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Optional parameters#starred:
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Required parameter#pages:
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Setup
+0-assets/script/TasksTimeline/README.md#Taskido: Obsidian-Tasks-Timeline#Tag colors
+0-assets/script/notesList/README.md
+0-assets/script/notesList/README.md#Obsidian-Notes-List
+0-assets/script/notesList/README.md#Obsidian-Notes-List#Impressions#Cards View
+0-assets/script/notesList/README.md#Obsidian-Notes-List#Impressions#Compact View
+0-assets/script/notesList/README.md#Obsidian-Notes-List#Impressions#Normal View
+0-assets/script/notesList/README.md#Obsidian-Notes-List#Setup
+0-assets/script/notesList/README.md#Obsidian-Notes-List#Setup#pages:
+0-assets/script/notesList/README.md#Obsidian-Notes-List#Setup#view:
+0-assets/script/notesList/README.md#Obsidian-Notes-List#Story
+0-assets/script/script.md
+0-assets/script/tasksCalendar/README.md
+0-assets/script/tasksCalendar/README.md#Filter
+0-assets/script/tasksCalendar/README.md#Note colors and icon
+0-assets/script/tasksCalendar/README.md#Obsidian-Tasks-Calendar#A custom view build with [Obsidian-Dataview](https://github.com/blacksmithgu/obsidian-dataview) to display tasks from [Obsidian-Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) and from your daily notes in a highly customisable calendar with a wide variety of views
+0-assets/script/tasksCalendar/README.md#Required parameters#Optional parameters#css:
+0-assets/script/tasksCalendar/README.md#Required parameters#Optional parameters#dailyNoteFolder:
+0-assets/script/tasksCalendar/README.md#Required parameters#Optional parameters#dailyNoteFormat:
+0-assets/script/tasksCalendar/README.md#Required parameters#Optional parameters#globalTaskFilter:
+0-assets/script/tasksCalendar/README.md#Required parameters#Optional parameters#startPosition:
+0-assets/script/tasksCalendar/README.md#Required parameters#firstDayOfWeek:
+0-assets/script/tasksCalendar/README.md#Required parameters#options:
+0-assets/script/tasksCalendar/README.md#Required parameters#pages:
+0-assets/script/tasksCalendar/README.md#Required parameters#view:
+0-assets/script/tasksCalendar/README.md#Setup
+0-assets/script/tasksCalendar/README.md#Statistic and focus
+0-assets/script/tasksCalendar/README.md#Story
+0-assets/script/tasksCalendar/README.md#[Click here!](https://github.com/702573N/Obsidian-Tasks-Timeline)
+0-assets/script/template/template.md
+0-assets/template/MOC模版.md
+0-assets/template/今日总结模版.md
+0-assets/template/任务模版.md
+0-assets/template/任务模版.md#今天已做任务记录
+0-assets/template/任务模版.md#📖今日任务管理系统
+0-assets/template/关系笔记模版.md
+0-assets/template/周检视模版.md
+0-assets/template/周检视模版.md#复盘#⛅事实#〇、信息汇总
+0-assets/template/周检视模版.md#复盘#⛅事实#反思：
+0-assets/template/思维导图模版.md
+0-assets/template/摘录笔记模版.md
+0-assets/template/未命名.md
+0-assets/template/未命名思维导图.md
+0-assets/template/网页剪切内容模版.md
+0-assets/template/自动创建时间和识别标题的yaml代码模版.md
+0-assets/template/英语句子笔记记录模版.md
+0-assets/template/英语阅读系统模版.md
+0-assets/template/视频笔记模版.md
+0-assets/template/遗忘记录.md
+0-assets/template/重述笔记模版.md
+0-assets/template/闪念模版.md
+0-assets/template/问答笔记.md
+0-assets/word/review.md
+0-assets/word/review.md#about
+0-assets/word/review.md#accurately
+0-assets/word/review.md#adapt
+0-assets/word/review.md#advancement
+0-assets/word/review.md#age
+0-assets/word/review.md#agreement
+0-assets/word/review.md#allies
+0-assets/word/review.md#analogizing
+0-assets/word/review.md#android
+0-assets/word/review.md#announcement
+0-assets/word/review.md#anticipated
+0-assets/word/review.md#assembly
+0-assets/word/review.md#budget
+0-assets/word/review.md#bygone
+0-assets/word/review.md#caption
+0-assets/word/review.md#chief
+0-assets/word/review.md#cited
+0-assets/word/review.md#civil
+0-assets/word/review.md#climate
+0-assets/word/review.md#collaboration
+0-assets/word/review.md#colleagues
+0-assets/word/review.md#commission
+0-assets/word/review.md#comprehend
+0-assets/word/review.md#confirmed
+0-assets/word/review.md#conservative
+0-assets/word/review.md#course
+0-assets/word/review.md#crucial
+0-assets/word/review.md#customary
+0-assets/word/review.md#cutting edge
+0-assets/word/review.md#dedication
+0-assets/word/review.md#desirable
+0-assets/word/review.md#deviation
+0-assets/word/review.md#digital
+0-assets/word/review.md#diplomat
+0-assets/word/review.md#dizzying
+0-assets/word/review.md#due
+0-assets/word/review.md#either
+0-assets/word/review.md#enhance
+0-assets/word/review.md#envision
+0-assets/word/review.md#epitomized
+0-assets/word/review.md#essential
+0-assets/word/review.md#even
+0-assets/word/review.md#evolving
+0-assets/word/review.md#executes
+0-assets/word/review.md#executive
+0-assets/word/review.md#exploitation
+0-assets/word/review.md#figure
+0-assets/word/review.md#financially
+0-assets/word/review.md#flagship
+0-assets/word/review.md#forefront
+0-assets/word/review.md#foundation
+0-assets/word/review.md#functional
+0-assets/word/review.md#getup
+0-assets/word/review.md#glaring
+0-assets/word/review.md#grants
+0-assets/word/review.md#hardly
+0-assets/word/review.md#high-profile
+0-assets/word/review.md#immense
+0-assets/word/review.md#immensely
+0-assets/word/review.md#impoverished
+0-assets/word/review.md#initial
+0-assets/word/review.md#innovative
+0-assets/word/review.md#interpreted
+0-assets/word/review.md#jubilation
+0-assets/word/review.md#lens
+0-assets/word/review.md#liberation
+0-assets/word/review.md#long-anticipated
+0-assets/word/review.md#meme
+0-assets/word/review.md#monitoring
+0-assets/word/review.md#morally
+0-assets/word/review.md#naive
+0-assets/word/review.md#naivete
+0-assets/word/review.md#narratives
+0-assets/word/review.md#not just
+0-assets/word/review.md#obsolete
+0-assets/word/review.md#optimistic
+0-assets/word/review.md#painted
+0-assets/word/review.md#paved
+0-assets/word/review.md#plenty
+0-assets/word/review.md#pop
+0-assets/word/review.md#prescient
+0-assets/word/review.md#proper
+0-assets/word/review.md#pursue
+0-assets/word/review.md#quarters
+0-assets/word/review.md#ratified
+0-assets/word/review.md#rejoin
+0-assets/word/review.md#relevant
+0-assets/word/review.md#relic
+0-assets/word/review.md#respondents
+0-assets/word/review.md#rest,
+0-assets/word/review.md#restored
+0-assets/word/review.md#retrench
+0-assets/word/review.md#revolutionized
+0-assets/word/review.md#sapience
+0-assets/word/review.md#scrutinise
+0-assets/word/review.md#seemingly
+0-assets/word/review.md#staggering
+0-assets/word/review.md#standing
+0-assets/word/review.md#straightforward
+0-assets/word/review.md#strategic
+0-assets/word/review.md#stressing
+0-assets/word/review.md#sudden
+0-assets/word/review.md#survey
+0-assets/word/review.md#tangible
+0-assets/word/review.md#thrilled
+0-assets/word/review.md#thundered
+0-assets/word/review.md#treated
+0-assets/word/review.md#trial
+0-assets/word/review.md#tribe
+0-assets/word/review.md#uninitialized
+0-assets/word/review.md#unparalleled
+0-assets/word/review.md#variant
+0-assets/word/review.md#veritable
+0-assets/word/review.md#vibe
+0-assets/word/review.md#your honor
+0-assets/word/word.md
+0-assets/word/word.md#反向查询
+0-assets/word/word.md#新学
+0-assets/word/word.md#眼熟
+0-assets/周笔记/2023-W48.md
+0-assets/周笔记/2023-W48.md#复盘#⛅事实#〇、信息汇总
+0-assets/周笔记/2023-W48.md#复盘#⛅事实#反思：
+0-assets/工作区/工作区.md
+0-assets/工作区/报告系统.md
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#1\. How it works
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#2\. Performance
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#3\. ‘Stateless’
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#4\. Customization
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#5\. Analytics — OpenTelemetry, Prometheus, and RED Metrics
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#6\. Forwarding client headers to subgraphs
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#Apollo Router’s Elastic license preventing adoption? Want to go even faster? This open-source Federation gateway has got you covered.
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#Batching
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#GitHub - wundergraph/cosmo: The open-source alternative to Apollo GraphOS. Building, maintaining…#The open-source alternative to Apollo GraphOS. Building, maintaining, and collaborating on GraphQL Federation at Scale…
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#GitHub - wundergraph/graphql-go-tools: Tools to write high performance GraphQL applications using…#Tools to write high performance GraphQL applications using Go/Golang. - GitHub - wundergraph/graphql-go-tools: Tools to…
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#Ludicrous Mode
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#Testing and Deployment
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#Where to go from here
+1-输入/2-碎片笔记/1外刊/An Introduction to Cosmo Router - Blazingly Fast Open-Source Federation v1/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#WunderGraph Cosmo — A Primer
+1-输入/2-碎片笔记/1外刊/China Aims to Grow Influence in Space with ‘Tiangong’ Station.md
+1-输入/2-碎片笔记/1外刊/China Sends Its Youngest-ever Crew, Enters New Space Race.md
+1-输入/2-碎片笔记/1外刊/Coding was Hard Until I Learned These 2 Things!.md
+1-输入/2-碎片笔记/1外刊/Coding was Hard Until I Learned These 2 Things!.md#Here’s what helped me go from “aspiring programmer” to actually landing a job in the field.
+1-输入/2-碎片笔记/1外刊/Coding was Hard Until I Learned These 2 Things!.md#Here’s what helped me go from “aspiring programmer” to actually landing a job in the field.#1\. Developing a Growth Mindset
+1-输入/2-碎片笔记/1外刊/Coding was Hard Until I Learned These 2 Things!.md#Here’s what helped me go from “aspiring programmer” to actually landing a job in the field.#2\. Turn Programming Into a Daily Habit
+1-输入/2-碎片笔记/1外刊/Coding was Hard Until I Learned These 2 Things!.md#Here’s what helped me go from “aspiring programmer” to actually landing a job in the field.#Implementation Intentions
+1-输入/2-碎片笔记/1外刊/Coding was Hard Until I Learned These 2 Things!.md#Here’s what helped me go from “aspiring programmer” to actually landing a job in the field.#Temptation Bundling
+1-输入/2-碎片笔记/1外刊/Do Not Fear the Robot Uprising.md
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#Compatibility
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#Contribute
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#Contribute#Contributors
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#FAQ
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#FSRS4Anki
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#How to Get Started?
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#How to Get Started?#Configuring Different Parameters for Different Decks
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#How to Get Started?#Step 1: Enabling the FSRS Scheduler#1.1 Enable Anki's V3 Scheduler
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#How to Get Started?#Step 1: Enabling the FSRS Scheduler#1.2 Paste FSRS Scheduler Code
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#How to Get Started?#Step 2: Personalizing FSRS
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#How to Get Started?#Step 2: Personalizing FSRS#Step 2.1 Training the FSRS Parameters
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#How to Get Started?#Step 2: Personalizing FSRS#Step 2.2: Choosing the desired retention rate and maximum interval
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#How to Get Started?#Step 2: Personalizing FSRS#Using the FSRS4Anki Helper add-on to reschedule existing cards
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#Introduction
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#Stargazers over time
+1-输入/2-碎片笔记/1外刊/FSRS4Anki illustration.md#Table of contents
+1-输入/2-碎片笔记/1外刊/Google Says AI-powered System Is Improving City Traffic Flows.md
+1-输入/2-碎片笔记/1外刊/Grad students make up a growing share of UAW members.md
+1-输入/2-碎片笔记/1外刊/More US States Teach Financial Education in High School.md
+1-输入/2-碎片笔记/1外刊/My dream job.md
+1-输入/2-碎片笔记/1外刊/Part of Antarctica to Experience ‘Unavoidable’ Melt.md
+1-输入/2-碎片笔记/1外刊/Scientists built the largest-ever map of the human brain. Here's what they found.md
+1-输入/2-碎片笔记/1外刊/Sunak hails .md
+1-输入/2-碎片笔记/1外刊/Unit 2 word.md
+1-输入/2-碎片笔记/1外刊/a.md
+1-输入/2-碎片笔记/1外刊/s.md
+1-输入/2-碎片笔记/1外刊/v2 Gateway.md
+1-输入/2-碎片笔记/1外刊/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#4\. Customization
+1-输入/2-碎片笔记/1外刊/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#5\. Analytics — OpenTelemetry, Prometheus, and RED Metrics
+1-输入/2-碎片笔记/1外刊/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#6\. Forwarding client headers to subgraphs
+1-输入/2-碎片笔记/1外刊/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#Testing and Deployment
+1-输入/2-碎片笔记/1外刊/v2 Gateway.md#An Introduction to Cosmo Router — Blazingly Fast Open-Source Federation V1/V2 Gateway#Where to go from here
+1-输入/2-碎片笔记/2023-09-05.md
+1-输入/2-碎片笔记/2023-09-05.md#学习之道
+1-输入/2-碎片笔记/2023-09-05.md#学习之道#组块
+1-输入/2-碎片笔记/2023-09-05.md#拖延
+1-输入/2-碎片笔记/2023-09-06.md
+1-输入/2-碎片笔记/2023-09-06.md#21:30 数据结构的初步理解#学习前提
+1-输入/2-碎片笔记/2023-09-06.md#术语#内存#存储结构
+1-输入/2-碎片笔记/2023-09-06.md#术语#数据(data)
+1-输入/2-碎片笔记/2023-09-06.md#术语#数据结构
+1-输入/2-碎片笔记/2023-09-06.md#问题
+1-输入/2-碎片笔记/2网页剪切/C++摘抄.md
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容#RTTI
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容#is-a的继承方式是什么意思
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容#vs code可以使用静态库和动态库吗
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容#什么是cast
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容#什么是has-a关系
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容#什么是嵌套类和异常类
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容#代码的分发方式是什么意思
+1-输入/2-碎片笔记/2网页剪切/C++的一些摘录.md#📘剪切内容#静态联编和动态联编是什么意思
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md#ChatGPT 有什么新奇的使用方式？ - 知乎
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md#ChatGPT 有什么新奇的使用方式？ - 知乎#一个案例
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md#ChatGPT 有什么新奇的使用方式？ - 知乎#一个案例#1、Instructions（说明）
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md#ChatGPT 有什么新奇的使用方式？ - 知乎#一个案例#2、Facts（事实）
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md#ChatGPT 有什么新奇的使用方式？ - 知乎#一个案例#3、Policy（OpenAI禁止条款）
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md#ChatGPT 有什么新奇的使用方式？ - 知乎#一点启发
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md#ChatGPT 有什么新奇的使用方式？ - 知乎#从插件说起
+1-输入/2-碎片笔记/2网页剪切/ChatGPT 有什么新奇的使用方式？ - 知乎.md#ChatGPT 有什么新奇的使用方式？ - 知乎#案例分析
+1-输入/2-碎片笔记/2网页剪切/Getting Started.md
+1-输入/2-碎片笔记/2网页剪切/test.md
+1-输入/2-碎片笔记/2网页剪切/书单：马克思主义从入门到进阶.md
+1-输入/2-碎片笔记/2网页剪切/书单：马克思主义从入门到进阶.md#书单：马克思主义从入门到进阶
+1-输入/2-碎片笔记/2网页剪切/书单：马克思主义从入门到进阶.md#书单：马克思主义从入门到进阶#一．马克思主义哲学：
+1-输入/2-碎片笔记/2网页剪切/书单：马克思主义从入门到进阶.md#书单：马克思主义从入门到进阶#二．马克思主义政治经济学：
+1-输入/2-碎片笔记/2网页剪切/书单：马克思主义从入门到进阶.md#书单：马克思主义从入门到进阶#叁：总结及书单百度云分享
+1-输入/2-碎片笔记/2网页剪切/书单：马克思主义从入门到进阶.md#书单：马克思主义从入门到进阶#壹：前言
+1-输入/2-碎片笔记/2网页剪切/书单：马克思主义从入门到进阶.md#书单：马克思主义从入门到进阶#贰：书单
+1-输入/2-碎片笔记/2网页剪切/作业.md
+1-输入/2-碎片笔记/2网页剪切/列宁和火星报.md
+1-输入/2-碎片笔记/2网页剪切/如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎.md
+1-输入/2-碎片笔记/2网页剪切/如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎.md#如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎
+1-输入/2-碎片笔记/2网页剪切/如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎.md#如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎#**一、面向对象是什么**-
+1-输入/2-碎片笔记/2网页剪切/如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎.md#如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎#**三、面试常见考点**
+1-输入/2-碎片笔记/2网页剪切/如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎.md#如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎#**二、从一场比赛说起**
+1-输入/2-碎片笔记/2网页剪切/如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎.md#如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎#**四、引申阅读**
+1-输入/2-碎片笔记/2网页剪切/如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎.md#如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎#复用性不佳
+1-输入/2-碎片笔记/2网页剪切/如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎.md#如何通俗易懂地举例说明「面向对象」和「面向过程」有什么区别？ - 知乎#耦合度高
+1-输入/2-碎片笔记/2网页剪切/极限的运算法则.md
+1-输入/2-碎片笔记/2网页剪切/极限的运算法则.md#[
+1-输入/2-碎片笔记/2网页剪切/极限的运算法则.md#以下运算法则对 $$x\to x_0 和 x\to \infty $$都成立：
+1-输入/2-碎片笔记/2网页剪切/极限的运算法则.md#以下运算法则对 $$x\to x_0 和 x\to \infty $$都成立：#文章被以下专栏收录
+1-输入/2-碎片笔记/2网页剪切/极限的运算法则.md#写在前面的话：
+1-输入/2-碎片笔记/2网页剪切/马克思主义入门.md#书单：马克思主义从入门到进阶
+1-输入/2-碎片笔记/2网页剪切/马克思主义入门.md#书单：马克思主义从入门到进阶#一．马克思主义哲学：
+1-输入/2-碎片笔记/2网页剪切/马克思主义入门.md#书单：马克思主义从入门到进阶#二．马克思主义政治经济学：
+1-输入/2-碎片笔记/2网页剪切/马克思主义入门.md#书单：马克思主义从入门到进阶#叁：总结及书单百度云分享
+1-输入/2-碎片笔记/2网页剪切/马克思主义入门.md#书单：马克思主义从入门到进阶#壹：前言
+1-输入/2-碎片笔记/2网页剪切/马克思主义入门.md#书单：马克思主义从入门到进阶#贰：书单
+1-输入/2-碎片笔记/3单词记录/115.md
+1-输入/5-遗忘系统/11月开学第12周遗忘记录.md
+2-输出/1闪念笔记/2023-10-06.md
+2-输出/1闪念笔记/2023-10-07.md
+2-输出/1闪念笔记/2023-10-08.md
+2-输出/1闪念笔记/2023-10-09.md
+2-输出/1闪念笔记/2023-10-10.md
+2-输出/1闪念笔记/2023-10-11.md
+2-输出/1闪念笔记/2023-10-12.md
+2-输出/1闪念笔记/2023-10-13.md
+2-输出/1闪念笔记/2023-10-14.md
+2-输出/1闪念笔记/2023-10-15.md
+2-输出/1闪念笔记/2023-10-16.md
+2-输出/1闪念笔记/2023-10-17.md
+2-输出/1闪念笔记/2023-10-18.md
+2-输出/1闪念笔记/2023-10-19.md
+2-输出/1闪念笔记/2023-10-20.md
+2-输出/1闪念笔记/2023-10-22.md
+2-输出/1闪念笔记/2023-10-23.md
+2-输出/1闪念笔记/2023-10-24.md
+2-输出/1闪念笔记/2023-10-25.md
+2-输出/1闪念笔记/2023-10-26.md
+2-输出/1闪念笔记/2023-10-27.md
+2-输出/1闪念笔记/2023-10-28.md
+2-输出/1闪念笔记/2023-10-31.md
+2-输出/1闪念笔记/2023-11-01.md
+2-输出/1闪念笔记/2023-11-02.md
+2-输出/1闪念笔记/2023-11-03.md
+2-输出/1闪念笔记/2023-11-04.md
+2-输出/1闪念笔记/2023-11-05.md
+2-输出/1闪念笔记/2023-11-06.md
+2-输出/1闪念笔记/2023-11-07.md
+2-输出/1闪念笔记/2023-11-11.md
+2-输出/1闪念笔记/2023-11-12.md
+2-输出/1闪念笔记/2023-11-13.md
+2-输出/1闪念笔记/2023-11-14.md
+2-输出/1闪念笔记/2023-11-15.md
+2-输出/1闪念笔记/2023-11-16.md
+2-输出/1闪念笔记/2023-11-18.md
+2-输出/1闪念笔记/2023-11-19.md
+2-输出/1闪念笔记/2023-11-20.md
+2-输出/1闪念笔记/2023-11-21.md
+2-输出/1闪念笔记/2023-11-22.md
+2-输出/1闪念笔记/2023-11-23.md
+2-输出/1闪念笔记/2023-11-24.md
+2-输出/1闪念笔记/2023-11-27.md
+2-输出/1闪念笔记/2023-11-30.md
+2-输出/1闪念笔记/2023-12-01.md
+2-输出/1闪念笔记/delete.md
+2-输出/1闪念笔记/think.md
+2-输出/2卡片笔记/C++内容检索_卡片.md
+2-输出/2卡片笔记/C++的动态分配内存和释放内存_卡片.md
+2-输出/2卡片笔记/C++的动态分配内存和释放内存_卡片.md#🍎重点摘抄#delete
+2-输出/2卡片笔记/C++的动态分配内存和释放内存_卡片.md#🍎重点摘抄#new
+2-输出/2卡片笔记/C++的对象复制和拷贝函数_卡片.md
+2-输出/2卡片笔记/C++的对象复制和拷贝函数_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/C++的对象复制和拷贝函数_卡片.md#🍏引用链接
+2-输出/2卡片笔记/C++的文件与流_卡片.md
+2-输出/2卡片笔记/C++的文件与流_卡片.md#🍎重点摘抄#关闭文件
+2-输出/2卡片笔记/C++的文件与流_卡片.md#🍎重点摘抄#写入文件
+2-输出/2卡片笔记/C++的文件与流_卡片.md#🍎重点摘抄#库
+2-输出/2卡片笔记/C++的文件与流_卡片.md#🍎重点摘抄#打开文件
+2-输出/2卡片笔记/C++的文件与流_卡片.md#🍎重点摘抄#读取文件
+2-输出/2卡片笔记/C++的文件与流_卡片.md#🍏引用链接
+2-输出/2卡片笔记/C++的文件与流_卡片.md#📒相关文章
+2-输出/2卡片笔记/C++的栈和堆_卡片.md
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#Cache hit(miss)
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#安全守卫
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#引言
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#栈
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#栈#区别：
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#栈#堆（Heap）：
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#栈#栈（Stack）：
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#栈和堆的定义
+2-输出/2卡片笔记/C++的栈和堆_卡片.md#🍎重点摘抄#空闲列表
+2-输出/2卡片笔记/CPU_卡片.md
+2-输出/2卡片笔记/CPU_卡片.md#🍎重点摘抄#
+2-输出/2卡片笔记/CPU_卡片.md#🍎重点摘抄##
+2-输出/2卡片笔记/CPU_卡片.md#🍎重点摘抄##{1}
+2-输出/2卡片笔记/Cmake的使用_卡片.md
+2-输出/2卡片笔记/Cmake的使用_卡片.md#PROJECT 指令的语法是：
+2-输出/2卡片笔记/Cmake的使用_卡片.md#PROJECT 指令的语法是：#add_executable
+2-输出/2卡片笔记/Cmake的使用_卡片.md#样式1
+2-输出/2卡片笔记/Cmake的使用_卡片.md#样式2
+2-输出/2卡片笔记/Cmake的使用_卡片.md#样式2#执行cmake
+2-输出/2卡片笔记/Cmake的使用_卡片.md#这是一个 CMakeLists.txt 文件#基本执行#cmake_minimum
+2-输出/2卡片笔记/Cmake的使用_卡片.md#这是一个 CMakeLists.txt 文件#基本执行#project
+2-输出/2卡片笔记/Cmake的使用_卡片.md#这是一个 CMakeLists.txt 文件#注释块
+2-输出/2卡片笔记/Const mutable.md
+2-输出/2卡片笔记/Const mutable.md#🍎重点摘抄#Const
+2-输出/2卡片笔记/Const mutable.md#🍎重点摘抄#Mutable
+2-输出/2卡片笔记/Const mutable.md#🍎重点摘抄#使用场景
+2-输出/2卡片笔记/Const mutable.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/Cubox网页摘录.md
+2-输出/2卡片笔记/C语言内存问题思考_卡片.md
+2-输出/2卡片笔记/IOTO管理模式.md
+2-输出/2卡片笔记/STL标准模块库_卡片.md
+2-输出/2卡片笔记/auto关键字_卡片.md
+2-输出/2卡片笔记/c++面向对象编程文本记录_卡片.md
+2-输出/2卡片笔记/dataview基本语法.md
+2-输出/2卡片笔记/git_卡片.md
+2-输出/2卡片笔记/git_卡片.md#🍎重点摘抄#github(托管平台)
+2-输出/2卡片笔记/git_卡片.md#🍎重点摘抄#github(托管平台)#令牌
+2-输出/2卡片笔记/git_卡片.md#🍎重点摘抄#分支
+2-输出/2卡片笔记/git_卡片.md#🍎重点摘抄#分支#操作分支
+2-输出/2卡片笔记/git_卡片.md#🍎重点摘抄#提交对象#提交
+2-输出/2卡片笔记/git_卡片.md#🍎重点摘抄#提交对象#提交对象
+2-输出/2卡片笔记/git_卡片.md#🍎重点摘抄#查询提交
+2-输出/2卡片笔记/git_卡片.md#🍏引用链接
+2-输出/2卡片笔记/hexo创建博客_卡片.md
+2-输出/2卡片笔记/include_卡片.md
+2-输出/2卡片笔记/include_卡片.md#🍎重点摘抄#include
+2-输出/2卡片笔记/include_卡片.md#🍎重点摘抄#两种形式
+2-输出/2卡片笔记/lambda_卡片.md
+2-输出/2卡片笔记/lambda_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/lambda_卡片.md#🍎重点摘抄#lambda两种运用方式
+2-输出/2卡片笔记/new_卡片.md
+2-输出/2卡片笔记/new_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/new_卡片.md#🍎重点摘抄#操作
+2-输出/2卡片笔记/printf函数下的转换、转义、修饰_卡片.md
+2-输出/2卡片笔记/s_卡片.md
+2-输出/2卡片笔记/size_t_卡片.md
+2-输出/2卡片笔记/strcpy_卡片.md
+2-输出/2卡片笔记/strcpy_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/strcpy_卡片.md#🍎重点摘抄#案例
+2-输出/2卡片笔记/this指针_卡片.md
+2-输出/2卡片笔记/typedef_卡片.md
+2-输出/2卡片笔记/typedef_卡片.md#🍎重点摘抄#基本语法
+2-输出/2卡片笔记/typedef_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/typedef_卡片.md#🍎重点摘抄#常见应用
+2-输出/2卡片笔记/using和命名空间_卡片.md
+2-输出/2卡片笔记/using和命名空间_卡片.md#🍎重点摘抄#namespace的使用规范
+2-输出/2卡片笔记/using和命名空间_卡片.md#🍎重点摘抄#namespece
+2-输出/2卡片笔记/using和命名空间_卡片.md#🍎重点摘抄#using
+2-输出/2卡片笔记/word转PPT_卡片.md
+2-输出/2卡片笔记/个人时间管理.md
+2-输出/2卡片笔记/主题、样式、母版_卡片.md
+2-输出/2卡片笔记/今日复习_卡片.md
+2-输出/2卡片笔记/位域_卡片.md
+2-输出/2卡片笔记/位域_卡片.md#🍎重点摘抄#主要特点
+2-输出/2卡片笔记/位域_卡片.md#🍎重点摘抄#概念
+2-输出/2卡片笔记/位域_卡片.md#🍎重点摘抄#语法
+2-输出/2卡片笔记/位操作_卡片.md
+2-输出/2卡片笔记/位操作_卡片.md#🍎重点摘抄#位移运算符
+2-输出/2卡片笔记/位操作_卡片.md#🍎重点摘抄#按位运算符
+2-输出/2卡片笔记/位运算_卡片.md
+2-输出/2卡片笔记/偏导_卡片.md
+2-输出/2卡片笔记/元组_卡片.md
+2-输出/2卡片笔记/共用体_卡片.md
+2-输出/2卡片笔记/共用体_卡片.md#🍎重点摘抄#位域
+2-输出/2卡片笔记/共用体_卡片.md#🍎重点摘抄#内存共享
+2-输出/2卡片笔记/共用体_卡片.md#🍎重点摘抄#应用#与结构体联用
+2-输出/2卡片笔记/共用体_卡片.md#🍎重点摘抄#应用#节省内存
+2-输出/2卡片笔记/共用体_卡片.md#🍎重点摘抄#概念
+2-输出/2卡片笔记/关于Anki的思考_卡片.md
+2-输出/2卡片笔记/其他头文件的指令_卡片.md
+2-输出/2卡片笔记/其他头文件的指令_卡片.md#预定义宏
+2-输出/2卡片笔记/其他头文件的指令_卡片.md#🍎重点摘抄#error
+2-输出/2卡片笔记/其他头文件的指令_卡片.md#🍎重点摘抄#ifdef、else、endif指令
+2-输出/2卡片笔记/其他头文件的指令_卡片.md#🍎重点摘抄#ifndef指令
+2-输出/2卡片笔记/其他头文件的指令_卡片.md#🍎重点摘抄#ifndef指令#if 和elif语句
+2-输出/2卡片笔记/其他头文件的指令_卡片.md#🍎重点摘抄#line
+2-输出/2卡片笔记/其他头文件的指令_卡片.md#🍎重点摘抄#pragma
+2-输出/2卡片笔记/其他头文件的指令_卡片.md#🍎重点摘抄#undef
+2-输出/2卡片笔记/内核空间和用户空间_卡片.md
+2-输出/2卡片笔记/内联函数_卡片.md
+2-输出/2卡片笔记/内联函数_卡片.md#🍎重点摘抄#**慎用内联**
+2-输出/2卡片笔记/内联函数_卡片.md#🍎重点摘抄#例子
+2-输出/2卡片笔记/内联函数_卡片.md#🍎重点摘抄#内联函数的编程风格
+2-输出/2卡片笔记/内联函数_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/内联函数_卡片.md#🍎重点摘抄#引入
+2-输出/2卡片笔记/内联函数_卡片.md#🍎重点摘抄#总结
+2-输出/2卡片笔记/函数_卡片.md
+2-输出/2卡片笔记/函数_卡片.md#🍎重点摘抄#应用
+2-输出/2卡片笔记/函数_卡片.md#🍎重点摘抄#特点
+2-输出/2卡片笔记/函数、数组和指针_卡片.md
+2-输出/2卡片笔记/函数、数组和指针_卡片.md#🍎重点摘抄#example
+2-输出/2卡片笔记/函数、数组和指针_卡片.md#🍎重点摘抄#使用指针形参
+2-输出/2卡片笔记/函数、数组和指针_卡片.md#🍎重点摘抄#指针名表示数组
+2-输出/2卡片笔记/函数、数组和指针_卡片.md#🍎重点摘抄#数组名表示指针
+2-输出/2卡片笔记/函数、数组和指针_卡片.md#🍎重点摘抄#数组名表示指针#注意 声明数组形参
+2-输出/2卡片笔记/函数与反函数.md
+2-输出/2卡片笔记/函数图形的描述_卡片.md
+2-输出/2卡片笔记/函数的极值_卡片.md
+2-输出/2卡片笔记/函数的极值_卡片.md#🍎重点摘抄#函数极值的定义
+2-输出/2卡片笔记/函数的极值_卡片.md#🍎重点摘抄#极值的充分条件(可导，判断极大值和极小值)#第一充分条件
+2-输出/2卡片笔记/函数的极值_卡片.md#🍎重点摘抄#极值的充分条件(可导，判断极大值和极小值)#第三充分条件
+2-输出/2卡片笔记/函数的极值_卡片.md#🍎重点摘抄#极值的充分条件(可导，判断极大值和极小值)#第二充分条件
+2-输出/2卡片笔记/分配内存_卡片.md
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#calloc()
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#exit()
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#free()
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#free()#free()的重要性
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#malloc()
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#malloc()#malloc()应用例
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#三种创建数组的方法
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#动态内存分配和变长数组
+2-输出/2卡片笔记/分配内存_卡片.md#🍎重点摘抄#动态内存分配和变长数组#多维数组
+2-输出/2卡片笔记/列宁的一生.md
+2-输出/2卡片笔记/创建博客_卡片.md
+2-输出/2卡片笔记/华为云开发者训练营_卡片.md
+2-输出/2卡片笔记/单向链表_卡片.md
+2-输出/2卡片笔记/单向链表_卡片.md#🍎重点摘抄#初始化#定义链表结构
+2-输出/2卡片笔记/单向链表_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/原码、反码、补码_卡片.md
+2-输出/2卡片笔记/友元_卡片.md
+2-输出/2卡片笔记/友元_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/友元_卡片.md#🍎重点摘抄#注意
+2-输出/2卡片笔记/友元_卡片.md#🍎重点摘抄#特点
+2-输出/2卡片笔记/友元_卡片.md#🍎重点摘抄#示例
+2-输出/2卡片笔记/反函数_卡片.md
+2-输出/2卡片笔记/反函数_卡片.md#🍎重点摘抄#存在验证
+2-输出/2卡片笔记/反函数_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/可变参数_卡片.md
+2-输出/2卡片笔记/可变参数_卡片.md#🍏引用链接
+2-输出/2卡片笔记/可变参数_卡片.md#📒相关文章#例子
+2-输出/2卡片笔记/可变参数_卡片.md#📒相关文章#可变参数和它的宏
+2-输出/2卡片笔记/可变参数_卡片.md#📒相关文章#概念
+2-输出/2卡片笔记/可移植性_卡片.md
+2-输出/2卡片笔记/各类函数的特点_卡片.md
+2-输出/2卡片笔记/各类函数的特点_卡片.md#🍎重点摘抄#各类函数的特点
+2-输出/2卡片笔记/各类函数的特点_卡片.md#🍎重点摘抄#应用#回调函数
+2-输出/2卡片笔记/各类函数的特点_卡片.md#🍎重点摘抄#应用#库函数
+2-输出/2卡片笔记/各类函数的特点_卡片.md#🍎重点摘抄#应用#指针函数
+2-输出/2卡片笔记/各类函数的特点_卡片.md#🍎重点摘抄#应用#用户自定义函数
+2-输出/2卡片笔记/各类函数的特点_卡片.md#🍎重点摘抄#应用#递归函数
+2-输出/2卡片笔记/各类数组的特点_卡片.md
+2-输出/2卡片笔记/各类数组的特点_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/各类数组的特点_卡片.md#📒相关文章
+2-输出/2卡片笔记/各类标识符的类型和修饰类型_卡片.md
+2-输出/2卡片笔记/各类标识符的类型和修饰类型_卡片.md#🍎重点摘抄#修饰符
+2-输出/2卡片笔记/各类标识符的类型和修饰类型_卡片.md#🍎重点摘抄#标准数据类型
+2-输出/2卡片笔记/命令行参数_卡片.md
+2-输出/2卡片笔记/命令行参数_卡片.md#🍎重点摘抄#例子
+2-输出/2卡片笔记/命令行参数_卡片.md#🍎重点摘抄#声明方式
+2-输出/2卡片笔记/命令行参数_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/命令行参数_卡片.md#📒相关文章
+2-输出/2卡片笔记/地址与字节_卡片.md
+2-输出/2卡片笔记/基本的输入输出_卡片.md
+2-输出/2卡片笔记/基本的输入输出_卡片.md#🍎重点摘抄#I/O 库头文件
+2-输出/2卡片笔记/基本的输入输出_卡片.md#🍎重点摘抄#iostream头文件的基本流#cerr标准错误流
+2-输出/2卡片笔记/基本的输入输出_卡片.md#🍎重点摘抄#iostream头文件的基本流#cin标准输入流
+2-输出/2卡片笔记/基本的输入输出_卡片.md#🍎重点摘抄#iostream头文件的基本流#clog标准日志流
+2-输出/2卡片笔记/基本的输入输出_卡片.md#🍎重点摘抄#iostream头文件的基本流#cout标准输出流
+2-输出/2卡片笔记/多态_卡片.md
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#动态多态#override和virtual
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#动态多态#抽象类
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#动态多态#父类(基类)指针
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#动态多态#虚函数和纯虚函数
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#动态多态的调用
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#静态多态#函数重载
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#静态多态#总结
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#静态多态#运算符重载
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#静态多态#运算符重载#operator
+2-输出/2卡片笔记/多态_卡片.md#🍎重点摘抄#静态多态#隐藏
+2-输出/2卡片笔记/多维数组.md
+2-输出/2卡片笔记/头文件_卡片.md
+2-输出/2卡片笔记/头文件_卡片.md#🍎重点摘抄#关键概念和应用
+2-输出/2卡片笔记/头文件_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/头文件_卡片.md#🍎重点摘抄#有条件引用
+2-输出/2卡片笔记/如何处理多返回值_卡片.md
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字典顺序
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字典顺序#判断
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字典顺序#规则
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串函数
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串函数#sprintf
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串函数#strcat
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串函数#strchr
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串函数#strcmp
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串函数#strcpy
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串函数#strlen
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串函数#strlen#特点
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#字符串的声明和初始化
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#输入输出#字符串输入
+2-输出/2卡片笔记/字符串和字符串函数_卡片.md#🍎重点摘抄#输入输出#字符串输出
+2-输出/2卡片笔记/字符串数组_卡片.md
+2-输出/2卡片笔记/字符串数组_卡片.md#🍎重点摘抄#多维数组表示法
+2-输出/2卡片笔记/字符串数组_卡片.md#🍎重点摘抄#指针表示法的字符串数组
+2-输出/2卡片笔记/字符串数组_卡片.md#🍎重点摘抄#指针表示法的字符串数组#为什么字符串可以作为地址
+2-输出/2卡片笔记/字面量_卡片.md
+2-输出/2卡片笔记/字面量_卡片.md#🍎重点摘抄#作用
+2-输出/2卡片笔记/字面量_卡片.md#🍎重点摘抄#字面量类型说明
+2-输出/2卡片笔记/字面量_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/存储类别、链接和内存管理.md
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#作用域#块级作用域
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#作用域#局部作用域
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#作用域#文件作用域：
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#内部链接的静态变量
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#块作用域的静态变量
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#外部链接的静态变量
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#外部链接的静态变量#4.定义和声明
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#外部链接的静态变量#使用外部变量
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#外部链接的静态变量#初始化外部变量
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#外部链接的静态变量#外部名称限定
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#多文件
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储期#作用域、链接、存储期再说明
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储期#块作用域的存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储期#嵌套块
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储期#线程存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储期#自动存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储期#静态存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储类别
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储类别#例子:
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储类别#左值(地址指针):
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储类别#标识符
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储类别和函数
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储类别的选择
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#存储类别说明符
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#寄存器变量
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#小结
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#本章学习内容
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#特殊情况#1.没有花括号的块
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#翻译单元和文件
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#自动存储类别的自动变量
+2-输出/2卡片笔记/存储类别、链接和内存管理.md#🍎重点摘抄#链接
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#作用域#块级作用域
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#作用域#局部作用域
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#作用域#文件作用域：
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#内部链接的静态变量
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#块作用域的静态变量
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#外部链接的静态变量
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#外部链接的静态变量#4.定义和声明
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#外部链接的静态变量#使用外部变量
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#外部链接的静态变量#初始化外部变量
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#外部链接的静态变量#外部名称限定
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#多文件
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储期#作用域、链接、存储期再说明
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储期#块作用域的存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储期#嵌套块
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储期#线程存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储期#自动存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储期#静态存储期
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储类别
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储类别#例子:
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储类别#左值(地址指针):
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储类别#标识符
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储类别和函数
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储类别的选择
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#存储类别说明符
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#寄存器变量
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#小结
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#本章学习内容
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#特殊情况#1.没有花括号的块
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#翻译单元和文件
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#自动存储类别的自动变量
+2-输出/2卡片笔记/存储类别、链接和内存管理头文件.md#🍎重点摘抄#链接
+2-输出/2卡片笔记/学习之道书籍阅读.md
+2-输出/2卡片笔记/学习之道书籍阅读.md#学习之道
+2-输出/2卡片笔记/学习之道书籍阅读.md#学习之道#组块
+2-输出/2卡片笔记/学习之道书籍阅读.md#拖延
+2-输出/2卡片笔记/寄存器与内存_卡片.md
+2-输出/2卡片笔记/寄存器与内存_卡片.md#🍎重点摘抄#
+2-输出/2卡片笔记/寄存器与内存_卡片.md#🍎重点摘抄#{2}
+2-输出/2卡片笔记/寄存器与内存_卡片.md#🍎重点摘抄#{4}
+2-输出/2卡片笔记/寄存器与内存_卡片.md#🍎重点摘抄#{5}
+2-输出/2卡片笔记/对数_卡片.md
+2-输出/2卡片笔记/导数_卡片.md
+2-输出/2卡片笔记/导数_卡片.md#🍎重点摘抄#导函数#几何意义的解释
+2-输出/2卡片笔记/导数_卡片.md#🍎重点摘抄#导函数#定义
+2-输出/2卡片笔记/导数_卡片.md#🍎重点摘抄#导数的定义#定义
+2-输出/2卡片笔记/导数_卡片.md#🍎重点摘抄#导数的定义#引入#平均变化率
+2-输出/2卡片笔记/导数_卡片.md#🍎重点摘抄#导数的定义#引入#瞬时变化率
+2-输出/2卡片笔记/导数运算的规则_卡片.md
+2-输出/2卡片笔记/工作流.md
+2-输出/2卡片笔记/布尔逻辑和逻辑门_卡片.md
+2-输出/2卡片笔记/异常处理_卡片.md
+2-输出/2卡片笔记/引用_卡片.md
+2-输出/2卡片笔记/引用_卡片.md#🍎重点摘抄#声明引用
+2-输出/2卡片笔记/引用_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/引用_卡片.md#🍎重点摘抄#应用
+2-输出/2卡片笔记/引用_卡片.md#🍎重点摘抄#引用和指针的区别
+2-输出/2卡片笔记/引用_卡片.md#🍎重点摘抄#注意
+2-输出/2卡片笔记/引用_卡片.md#🍎重点摘抄#特性#引用变量修改原变量
+2-输出/2卡片笔记/引用_卡片.md#🍎重点摘抄#类似于指针函数的引用函数
+2-输出/2卡片笔记/引用_卡片.md#🍎重点摘抄#返回值引用
+2-输出/2卡片笔记/强制转换的介绍_卡片.md
+2-输出/2卡片笔记/强制转换的介绍_卡片.md#🍎重点摘抄#基本用法#将数据类型转换为另一种类型
+2-输出/2卡片笔记/强制转换的介绍_卡片.md#🍎重点摘抄#基本用法#指针的类型转换
+2-输出/2卡片笔记/强制转换的介绍_卡片.md#🍎重点摘抄#基本用法#混合数据类型表达式的计算：
+2-输出/2卡片笔记/强制转换的介绍_卡片.md#🍎重点摘抄#基本用法#转换为枚举类型
+2-输出/2卡片笔记/微分_卡片.md
+2-输出/2卡片笔记/微分_卡片.md#🍎重点摘抄#前提
+2-输出/2卡片笔记/微分_卡片.md#🍎重点摘抄#前提#微分和导数的关系#微分中A的意义
+2-输出/2卡片笔记/微分_卡片.md#🍎重点摘抄#引入
+2-输出/2卡片笔记/微分_卡片.md#🍎重点摘抄#微分公式和运算法则#公式和法则
+2-输出/2卡片笔记/微分_卡片.md#🍎重点摘抄#微分公式和运算法则#多元复合函数的微分法
+2-输出/2卡片笔记/微分_卡片.md#🍎重点摘抄#微分的几何意义
+2-输出/2卡片笔记/微分_卡片.md#🍎重点摘抄#微分的定义
+2-输出/2卡片笔记/微分中值定理_卡片.md
+2-输出/2卡片笔记/微分中值定理_卡片.md#🍎重点摘抄#拉格朗日中值定理
+2-输出/2卡片笔记/微分中值定理_卡片.md#🍎重点摘抄#拉格朗日中值定理#几何意义
+2-输出/2卡片笔记/微分中值定理_卡片.md#🍎重点摘抄#拉格朗日中值定理#推论
+2-输出/2卡片笔记/微分中值定理_卡片.md#🍎重点摘抄#柯西中值定理
+2-输出/2卡片笔记/微分中值定理_卡片.md#🍎重点摘抄#罗尔中值定理#定义
+2-输出/2卡片笔记/抽象数据类型_卡片.md
+2-输出/2卡片笔记/抽象数据类型_卡片.md#🍎重点摘抄#抽象数据类型
+2-输出/2卡片笔记/抽象数据类型_卡片.md#🍎重点摘抄#接口
+2-输出/2卡片笔记/指针_卡片.md
+2-输出/2卡片笔记/指针_卡片.md#🍎重点摘抄#基本定义
+2-输出/2卡片笔记/指针_卡片.md#🍎重点摘抄#应用场景
+2-输出/2卡片笔记/指针函数和回调函数_卡片.md
+2-输出/2卡片笔记/指针和数组_卡片.md
+2-输出/2卡片笔记/指针和数组_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/指针和数组_卡片.md#🍎重点摘抄#指针加法
+2-输出/2卡片笔记/指针和数组_卡片.md#🍎重点摘抄#数组与指针的关系
+2-输出/2卡片笔记/指针和数组_卡片.md#🍎重点摘抄#数组的指针加法
+2-输出/2卡片笔记/指针的运算_卡片.md
+2-输出/2卡片笔记/掷骰子_卡片.md
+2-输出/2卡片笔记/掷骰子_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/掷骰子_卡片.md#📘自我重述
+2-输出/2卡片笔记/数据类型_卡片.md
+2-输出/2卡片笔记/数据类型_卡片.md#🍎重点摘抄#基本数据类型
+2-输出/2卡片笔记/数据类型_卡片.md#🍎重点摘抄#复合数据类型
+2-输出/2卡片笔记/数据类型_卡片.md#🍎重点摘抄#引用类型
+2-输出/2卡片笔记/数据类型_卡片.md#🍎重点摘抄#抽象数据类型
+2-输出/2卡片笔记/数据类型_卡片.md#🍎重点摘抄#指针类型
+2-输出/2卡片笔记/数据结构绪论_卡片.md
+2-输出/2卡片笔记/数据结构绪论_卡片.md#🍎重点摘抄#数据结构的研究方式#数学/逻辑模型
+2-输出/2卡片笔记/数据结构绪论_卡片.md#🍎重点摘抄#数据结构的研究方式#数学/逻辑模型#ADT抽象数据类型的基本
+2-输出/2卡片笔记/数据结构绪论_卡片.md#🍎重点摘抄#数据结构的研究方式#数学/逻辑模型#例子
+2-输出/2卡片笔记/数组、vertor.array_卡片.md
+2-输出/2卡片笔记/数组、vertor.array_卡片.md#🍎重点摘抄#vector
+2-输出/2卡片笔记/数组、vertor.array_卡片.md#🍎重点摘抄#vector的存储机制
+2-输出/2卡片笔记/数组、vertor.array_卡片.md#🍎重点摘抄#vector的存储机制#特点和作用
+2-输出/2卡片笔记/数组、vertor.array_卡片.md#🍎重点摘抄#vertor的使用#删除操作
+2-输出/2卡片笔记/数组、vertor.array_卡片.md#🍎重点摘抄#vertor的使用#声明和初始化
+2-输出/2卡片笔记/数组、vertor.array_卡片.md#🍎重点摘抄#vertor的使用#添加元素
+2-输出/2卡片笔记/数组、vertor.array_卡片.md#🍎重点摘抄#vertor的使用#访问元素
+2-输出/2卡片笔记/数组与指针_卡片.md
+2-输出/2卡片笔记/数组与指针_卡片.md#🍎重点摘抄#C99的初始化器
+2-输出/2卡片笔记/数组与指针_卡片.md#🍎重点摘抄#使用const声明数组
+2-输出/2卡片笔记/数组与指针_卡片.md#🍎重点摘抄#数组元素的赋值#无效赋值的情况#数组下标越界
+2-输出/2卡片笔记/数组与指针_卡片.md#🍎重点摘抄#数组声明
+2-输出/2卡片笔记/数组与指针_卡片.md#🍎重点摘抄#未完全初始化
+2-输出/2卡片笔记/数组与指针_卡片.md#🍎重点摘抄#计算数组的元素个数
+2-输出/2卡片笔记/数组与指针的区别_卡片.md
+2-输出/2卡片笔记/数组和指针.md
+2-输出/2卡片笔记/数组和指针.md#🍎重点摘抄#指定初始化器（C99）
+2-输出/2卡片笔记/数组和指针.md#🍎重点摘抄#数组声明#使用const声明数组
+2-输出/2卡片笔记/数组和指针.md#🍎重点摘抄#数组边界
+2-输出/2卡片笔记/数组和指针.md#🍎重点摘抄#给数组元素赋值
+2-输出/2卡片笔记/数组和指针.md#🍎重点摘抄#给数组元素赋值#无效的数组赋值
+2-输出/2卡片笔记/数组和指针.md#🍎重点摘抄#编译器计算元素个数
+2-输出/2卡片笔记/数组表示法和指针表示法的区别_卡片.md
+2-输出/2卡片笔记/文件读写_卡片.md
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#关闭文件
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fprintf()
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fprintf()#格式化文本
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fputc()
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fputs()
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fwrite()
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fwrite()#应用#单个变量
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fwrite()#应用#字符串
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fwrite()#应用#整数数组
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#写入数据#fwrite()#应用#结构体
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#打开文件
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#打开文件#fopen基本语法
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#打开文件#基本打开方式
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#打开文件#用法
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#读取数据#fgets()
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#读取数据#fread()
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#基本函数#读取数据#fscanf()
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#应用
+2-输出/2卡片笔记/文件读写_卡片.md#🍎重点摘抄#概念
+2-输出/2卡片笔记/文件读写_卡片.md#📒相关文章
+2-输出/2卡片笔记/无穷小的阶_卡片.md
+2-输出/2卡片笔记/日程表_卡片.md
+2-输出/2卡片笔记/映射_卡片.md
+2-输出/2卡片笔记/智能指针_卡片.md
+2-输出/2卡片笔记/智能指针_卡片.md#🍎重点摘抄#make
+2-输出/2卡片笔记/智能指针_卡片.md#🍎重点摘抄#make#正常分配初始
+2-输出/2卡片笔记/智能指针_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/智能指针_卡片.md#🍎重点摘抄#常用的智能指针#shared_ptr
+2-输出/2卡片笔记/智能指针_卡片.md#🍎重点摘抄#常用的智能指针#unique_ptr
+2-输出/2卡片笔记/曲线的凹凸性_卡片.md
+2-输出/2卡片笔记/最坏情况和平均情况_卡片.md
+2-输出/2卡片笔记/有关想法如果系统的生成Chatgpt prompt_卡片.md
+2-输出/2卡片笔记/有关想法如果系统的生成Chatgpt prompt_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/有关想法如果系统的生成Chatgpt prompt_卡片.md#🍎重点摘抄#举个例子。
+2-输出/2卡片笔记/有关想法如果系统的生成Chatgpt prompt_卡片.md#🍎重点摘抄#举个例子。#一个演示
+2-输出/2卡片笔记/有关想法如果系统的生成Chatgpt prompt_卡片.md#🍏引用链接
+2-输出/2卡片笔记/有关想法如果系统的生成Chatgpt prompt_卡片.md#📒相关文章
+2-输出/2卡片笔记/未命名.md
+2-输出/2卡片笔记/极限_卡片.md
+2-输出/2卡片笔记/极限导论_卡片.md
+2-输出/2卡片笔记/极限导论_卡片.md#🍎重点摘抄#什么是极限#定义#函数
+2-输出/2卡片笔记/极限导论_卡片.md#🍎重点摘抄#什么是极限#定义#数列
+2-输出/2卡片笔记/极限导论_卡片.md#🍎重点摘抄#什么是极限#引入
+2-输出/2卡片笔记/极限导论_卡片.md#🍎重点摘抄#极限何时不存在
+2-输出/2卡片笔记/极限导论_卡片.md#🍎重点摘抄#极限何时存在
+2-输出/2卡片笔记/极限有关的公式_卡片.md
+2-输出/2卡片笔记/极限有关的定理_卡片.md
+2-输出/2卡片笔记/极限有关的定理_卡片.md#🍎重点摘抄#三明治定理
+2-输出/2卡片笔记/极限有关的定理_卡片.md#🍎重点摘抄#无穷小乘有界函数定理
+2-输出/2卡片笔记/构造函数_卡片.md
+2-输出/2卡片笔记/构造函数和构析函数_卡片.md
+2-输出/2卡片笔记/构造函数和构析函数_卡片.md#🍎重点摘抄#构析函数
+2-输出/2卡片笔记/构造函数和构析函数_卡片.md#🍎重点摘抄#构造函数#初始化列表
+2-输出/2卡片笔记/构造函数和构析函数_卡片.md#🍎重点摘抄#构造函数#初始化列表的使用
+2-输出/2卡片笔记/构造函数和构析函数_卡片.md#🍎重点摘抄#构造函数#基本声明方式
+2-输出/2卡片笔记/构造函数和构析函数_卡片.md#🍎重点摘抄#构造函数#定义
+2-输出/2卡片笔记/构造函数和构析函数_卡片.md#🍎重点摘抄#构造函数#对象的参数传递
+2-输出/2卡片笔记/构造函数和构析函数_卡片.md#🍎重点摘抄#构造函数#应用
+2-输出/2卡片笔记/枚举_卡片.md
+2-输出/2卡片笔记/枚举_卡片.md#🍎重点摘抄#枚举变量的使用方法#声明枚举变量
+2-输出/2卡片笔记/枚举_卡片.md#🍎重点摘抄#枚举变量的使用方法#访问枚举变量
+2-输出/2卡片笔记/枚举_卡片.md#🍎重点摘抄#枚举变量的使用方法#赋值枚举变量
+2-输出/2卡片笔记/枚举_卡片.md#🍎重点摘抄#枚举变量的使用方法#赋值枚举变量#说明
+2-输出/2卡片笔记/枚举_卡片.md#🍎重点摘抄#枚举的定义
+2-输出/2卡片笔记/枚举_卡片.md#🍎重点摘抄#枚举的概念
+2-输出/2卡片笔记/枚举_卡片.md#🍎重点摘抄#特点
+2-输出/2卡片笔记/栈和堆_卡片.md
+2-输出/2卡片笔记/根据一个文章模版生成Chatgpt prompt_卡片.md
+2-输出/2卡片笔记/根据一个文章模版生成Chatgpt prompt_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/根据一个文章模版生成Chatgpt prompt_卡片.md#🍎重点摘抄#模版
+2-输出/2卡片笔记/根据一个文章模版生成Chatgpt prompt_卡片.md#🍏引用链接
+2-输出/2卡片笔记/根据一个文章模版生成Chatgpt prompt_卡片.md#📒相关文章
+2-输出/2卡片笔记/模版_卡片.md
+2-输出/2卡片笔记/求解多项式的极限问题.md
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#X -> a 时的平方根的极限
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#X 一 >oo 时的有理函数的极限
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#X 一>-oo 时的有理函数的极限#与x->oo时的有理函数的极限的不同#幂
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#X 一>-oo 时的有理函数的极限#与x->oo时的有理函数的极限的不同#符号
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#X->00 时的多项式型函数的极限#多项式型函数
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#x-->a 时的有理函数的极限#分母为 0 但分子不为 0
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#包含绝对值的函数的极限
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#多项式的极限问题主要涉及下列函数类型的极限分开研究
+2-输出/2卡片笔记/求解多项式的极限问题.md#🍎重点摘抄#立方差公式
+2-输出/2卡片笔记/求解微分问题_卡片.md
+2-输出/2卡片笔记/洛必达法则_卡片.md
+2-输出/2卡片笔记/渐进阅读的理解.md
+2-输出/2卡片笔记/电子计算机_卡片.md
+2-输出/2卡片笔记/矩阵.md
+2-输出/2卡片笔记/算数逻辑单元_卡片.md
+2-输出/2卡片笔记/算数逻辑单元_卡片.md#🍎重点摘抄#算术单元#二进制相加#全加器
+2-输出/2卡片笔记/算数逻辑单元_卡片.md#🍎重点摘抄#算术单元#二进制相加#加法电路
+2-输出/2卡片笔记/算数逻辑单元_卡片.md#🍎重点摘抄#算术单元#二进制相加#半加器
+2-输出/2卡片笔记/算法时间复杂度_卡片.md
+2-输出/2卡片笔记/算法时间复杂度_卡片.md#🍎重点摘抄#常见的阶#对数阶
+2-输出/2卡片笔记/算法时间复杂度_卡片.md#🍎重点摘抄#常见的阶#常数阶
+2-输出/2卡片笔记/算法时间复杂度_卡片.md#🍎重点摘抄#常见的阶#平方阶
+2-输出/2卡片笔记/算法时间复杂度_卡片.md#🍎重点摘抄#常见的阶#线性阶
+2-输出/2卡片笔记/算法时间复杂度_卡片.md#🍎重点摘抄#推导大O阶
+2-输出/2卡片笔记/算法时间复杂度_卡片.md#🍎重点摘抄#算法时间复杂度定义
+2-输出/2卡片笔记/算法空间复杂度_卡片.md
+2-输出/2卡片笔记/算法空间复杂度_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/算法空间复杂度_卡片.md#🍎重点摘抄#常见的空间复杂度#O(n)
+2-输出/2卡片笔记/算法空间复杂度_卡片.md#🍎重点摘抄#常见的空间复杂度#O(n^2)
+2-输出/2卡片笔记/类_卡片.md
+2-输出/2卡片笔记/类_卡片.md#🍎重点摘抄#简要定义
+2-输出/2卡片笔记/类_卡片.md#🍎重点摘抄#类的修饰符
+2-输出/2卡片笔记/类_卡片.md#🍎重点摘抄#类的正规写法
+2-输出/2卡片笔记/类的继承_卡片.md
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#基本声明
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#子类的构造函数#子类构建函数
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#子类的构造函数#带参数的子类构建函数全动态的初始化赋值
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#类继承的基本概念
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#继承方式#保护继承
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#继承方式#公有继承#父类定义是private
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#继承方式#公有继承#父类定义是protect
+2-输出/2卡片笔记/类的继承_卡片.md#🍎重点摘抄#继承方式#私有继承
+2-输出/2卡片笔记/类的继承_卡片.md#📒相关文章
+2-输出/2卡片笔记/线性表_卡片.md
+2-输出/2卡片笔记/线程的学习路线_卡片.md
+2-输出/2卡片笔记/线程的学习路线_卡片.md#🍎重点摘抄#与线程紧密相关的知识和函数：
+2-输出/2卡片笔记/线程的学习路线_卡片.md#🍎重点摘抄#学习线程的路线：
+2-输出/2卡片笔记/结构体_卡片.md
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#sizeof操作符
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#位域(bit Fields)
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#定义结构
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#嵌套结构体
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#嵌套结构体#访问嵌套结构体#常规访问
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#嵌套结构体#访问嵌套结构体#指针访问
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#概念
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#结构体作为函数参数及形参
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#结构体初始化
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#结构体变量
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#结构体指针
+2-输出/2卡片笔记/结构体_卡片.md#🍎重点摘抄#访问结构体成员
+2-输出/2卡片笔记/英语chatgpt_卡片.md
+2-输出/2卡片笔记/英语发音规则_卡片.md
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md#🍎重点摘抄#基本子系统#CPU#CPU实际做什么
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md#🍎重点摘抄#基本子系统#CPU#内部
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md#🍎重点摘抄#基本子系统#CPU#定义
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md#🍎重点摘抄#基本子系统#主存储器
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md#🍎重点摘抄#基本子系统#主存储器#RAM和ROM的扩展
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md#🍎重点摘抄#基本子系统#主存储器#关系
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md#🍎重点摘抄#基本子系统#辅助存储器#特点
+2-输出/2卡片笔记/计算机中的硬件子系统_卡片.md#🍎重点摘抄#基本子系统#辅助存储器#类型
+2-输出/2卡片笔记/计算机比赛列表.md
+2-输出/2卡片笔记/计算机的早期历史.md
+2-输出/2卡片笔记/计算机的早期历史_卡片.md
+2-输出/2卡片笔记/读入值创建数组_卡片.md
+2-输出/2卡片笔记/读入值创建数组_卡片.md#🍎重点摘抄#指针表示法
+2-输出/2卡片笔记/读入值创建数组_卡片.md#🍎重点摘抄#数组表示法
+2-输出/2卡片笔记/读取字符串_卡片.md
+2-输出/2卡片笔记/读取字符串_卡片.md#🍎重点摘抄#读取字符串
+2-输出/2卡片笔记/读取字符串_卡片.md#🍎重点摘抄#读取字符串#使用 `get()`
+2-输出/2卡片笔记/读取字符串_卡片.md#🍎重点摘抄#读取字符串#使用 `getline()`
+2-输出/2卡片笔记/运算符_卡片.md
+2-输出/2卡片笔记/进制与位_卡片.md
+2-输出/2卡片笔记/连续性和可导性.md
+2-输出/2卡片笔记/连续性和可导性.md#🍎重点摘抄#连续性#在一个区间上连续
+2-输出/2卡片笔记/连续性和可导性.md#🍎重点摘抄#连续性#在一点处连续
+2-输出/2卡片笔记/连续性和可导性.md#🍎重点摘抄#连续性#连续函数的一些例子
+2-输出/2卡片笔记/连读_卡片.md
+2-输出/2卡片笔记/连读_卡片.md#🍎重点摘抄#flap
+2-输出/2卡片笔记/连读_卡片.md#🍎重点摘抄#连读
+2-输出/2卡片笔记/迭代器_卡片.md
+2-输出/2卡片笔记/递归_卡片.md
+2-输出/2卡片笔记/递归_卡片.md#🍎重点摘抄#使用
+2-输出/2卡片笔记/递归_卡片.md#🍎重点摘抄#例子
+2-输出/2卡片笔记/重载_卡片.md
+2-输出/2卡片笔记/重载_卡片.md#🍎重点摘抄#函数重载#定义
+2-输出/2卡片笔记/重载_卡片.md#🍎重点摘抄#函数重载#应用场景
+2-输出/2卡片笔记/重载_卡片.md#🍎重点摘抄#运算符重载#C++运算符重载时要遵循的规则
+2-输出/2卡片笔记/重载_卡片.md#🍎重点摘抄#运算符重载#全局函数重载运算符
+2-输出/2卡片笔记/重载_卡片.md#🍎重点摘抄#运算符重载#如何选择
+2-输出/2卡片笔记/重载_卡片.md#🍎重点摘抄#运算符重载#成员函数重载运算符
+2-输出/2卡片笔记/链表_卡片.md
+2-输出/2卡片笔记/链表_卡片.md#🍎重点摘抄#各种链表的介绍#单向链表
+2-输出/2卡片笔记/链表_卡片.md#🍎重点摘抄#各种链表的介绍#单向链表#创建初始化链表#头插法
+2-输出/2卡片笔记/链表_卡片.md#🍎重点摘抄#各种链表的介绍#循环链表
+2-输出/2卡片笔记/链表_卡片.md#🍎重点摘抄#链表的定义
+2-输出/2卡片笔记/链表_卡片.md#🍎重点摘抄#链表的定义#头节点
+2-输出/2卡片笔记/链表_卡片.md#🍎重点摘抄#链表的定义#尾指针
+2-输出/2卡片笔记/链表_卡片.md#🍎重点摘抄#链表的定义#节点
+2-输出/2卡片笔记/链表_卡片.md#🍎重点摘抄#链表的定义#首元节点
+2-输出/2卡片笔记/链表_卡片.md#🍏引用链接
+2-输出/2卡片笔记/错误处理_卡片.md
+2-输出/2卡片笔记/错误处理_卡片.md#🍎重点摘抄#基本函数#perror()
+2-输出/2卡片笔记/错误处理_卡片.md#🍎重点摘抄#基本函数#strerror()
+2-输出/2卡片笔记/错误处理_卡片.md#🍎重点摘抄#定义
+2-输出/2卡片笔记/限定符_卡片.md
+2-输出/2卡片笔记/限定符_卡片.md#🍎重点摘抄#const
+2-输出/2卡片笔记/限定符_卡片.md#🍎重点摘抄#restrict
+2-输出/2卡片笔记/限定符_卡片.md#🍎重点摘抄#volatile
+2-输出/2卡片笔记/限定符_卡片.md#🍎重点摘抄#volatile#example
+2-输出/2卡片笔记/随机数函数和静态变量_卡片.md
+2-输出/2卡片笔记/随机数函数和静态变量_卡片.md#🍎重点摘抄#随机数函数
+2-输出/2卡片笔记/随机数函数和静态变量_卡片.md#🍎重点摘抄#随机数函数#自动重置种子
+2-输出/2卡片笔记/隐函数_卡片.md
+2-输出/2卡片笔记/隐函数求导_卡片.md
+2-输出/2卡片笔记/隐式转换_卡片.md
+2-输出/2卡片笔记/隐式转换_卡片.md#🍎重点摘抄
+2-输出/2卡片笔记/隐式转换_卡片.md#🍎重点摘抄#构造函数的隐式转换
+2-输出/2卡片笔记/隐式转换_卡片.md#🍎重点摘抄#禁止隐式转换
+2-输出/2卡片笔记/预处理器_卡片.md
+2-输出/2卡片笔记/高级数据表示_卡片.md
+2-输出/3mindmap/mindmap_sdf.md
+2-输出/3mindmap/mindmap_sdfsdf.md
+2-输出/3mindmap/mindmap_主题、版式与母版.md
+2-输出/3mindmap/mindmap_内存学习路线.md
+2-输出/3mindmap/mindmap_模版的链接.md
+2-输出/3mindmap/mindmap_求解多项式的极限问题.md
+2-输出/3mindmap/mindmap_编程学习路线.md
+2-输出/3mindmap/mindmap_编译和链接.md
+2-输出/3mindmap/函数.md
+2-输出/3mindmap/大话数据结构.md
+2-输出/3mindmap/未命名 1.canvas
+2-输出/3mindmap/未命名.canvas
+2-输出/3mindmap/未命名思维导图-rich.md
+2-输出/3mindmap/树状数据术语的理解.canvas
+2-输出/3mindmap/目前知识图.md
+2-输出/3mindmap/计算机比赛.canvas
+2-输出/4重述笔记/Coding was Hard Until I do two things_重述.md
+2-输出/4重述笔记/define_重述.md
+2-输出/4重述笔记/define_重述.md#📘自我重述#define#宏#小心双引号
+2-输出/4重述笔记/define_重述.md#📘自我重述#define#宏#类函数宏
+2-输出/4重述笔记/define_重述.md#📘自我重述#define#替换体
+2-输出/4重述笔记/define_重述.md#📘自我重述#define#组成
+2-输出/4重述笔记/define_重述.md#📘自我重述#何时使用define#C静态数组的特征
+2-输出/4重述笔记/define_重述.md#📘自我重述#类函数宏和函数的选择
+2-输出/4重述笔记/define_重述.md#📘自我重述#类函数宏和函数的选择#一些简单函数通常使用的宏
+2-输出/4重述笔记/define_重述.md#📘自我重述#类函数宏和函数的选择#宏的优点
+2-输出/4重述笔记/define_重述.md#📘自我重述#预处理器运算符#宏延续运算符（\\  ）
+2-输出/4重述笔记/define_重述.md#📘自我重述#预处理器运算符#宏延续运算符（\\  ）#字符串常量化运算符（）
+2-输出/4重述笔记/define_重述.md#📘自我重述#预处理器运算符#宏延续运算符（\\  ）#字符串常量化运算符（）#标记粘贴运算符（）
+2-输出/4重述笔记/flashcards插件的判断逻辑_重述.md
+2-输出/4重述笔记/include_重述.md
+2-输出/4重述笔记/include_重述.md#📘自我重述#include
+2-输出/4重述笔记/include_重述.md#📘自我重述#两种形式
+2-输出/4重述笔记/printf函数下的转换、转义、修饰_重述.md
+2-输出/4重述笔记/printf函数下的转换、转义、修饰_重述.md#📘自我重述#修饰符号
+2-输出/4重述笔记/printf函数下的转换、转义、修饰_重述.md#📘自我重述#转义符号(用于转义特殊字符)
+2-输出/4重述笔记/printf函数下的转换、转义、修饰_重述.md#📘自我重述#转换符号(格式化字符串中的占位符)
+2-输出/4重述笔记/printf函数下的转换、转义、修饰_重述.md#🤔问题:#转换符号与类型匹配错误会发生什么
+2-输出/4重述笔记/s_重述.md
+2-输出/4重述笔记/strcpy函数_重述.md
+2-输出/4重述笔记/strcpy函数_重述.md#📘自我重述#例子
+2-输出/4重述笔记/strcpy函数_重述.md#📘自我重述#定义
+2-输出/4重述笔记/strcpy函数_重述.md#📘自我重述#防止缓存区溢出#使用动态内存分配
+2-输出/4重述笔记/typedef_重述.md
+2-输出/4重述笔记/typedef_重述.md#📘自我重述#基本语法
+2-输出/4重述笔记/typedef_重述.md#📘自我重述#常见应用
+2-输出/4重述笔记/typedef_重述.md#📘自我重述#概念
+2-输出/4重述笔记/中国特色社会主义.md
+2-输出/4重述笔记/主题、版式和母版_重述.md
+2-输出/4重述笔记/主题、版式和母版_重述.md#📘自我重述#主题
+2-输出/4重述笔记/主题、版式和母版_重述.md#📘自我重述#母版
+2-输出/4重述笔记/主题、版式和母版_重述.md#📘自我重述#版式
+2-输出/4重述笔记/位域_重述.md
+2-输出/4重述笔记/位域_重述.md#📘自我重述#主要特点#位数指定
+2-输出/4重述笔记/位域_重述.md#📘自我重述#主要特点#存储大小
+2-输出/4重述笔记/位域_重述.md#📘自我重述#主要特点#符号性
+2-输出/4重述笔记/位域_重述.md#📘自我重述#主要特点#符号性#无符号而言
+2-输出/4重述笔记/位域_重述.md#📘自我重述#主要特点#符号性#有符号而言
+2-输出/4重述笔记/位域_重述.md#📘自我重述#概念
+2-输出/4重述笔记/位域_重述.md#📘自我重述#语法
+2-输出/4重述笔记/其他的预处理器指令_重述.md
+2-输出/4重述笔记/其他的预处理器指令_重述.md#📘自我重述#error
+2-输出/4重述笔记/其他的预处理器指令_重述.md#📘自我重述#if 和elif语句
+2-输出/4重述笔记/其他的预处理器指令_重述.md#📘自我重述#ifdef、else、endif指令
+2-输出/4重述笔记/其他的预处理器指令_重述.md#📘自我重述#ifndef指令
+2-输出/4重述笔记/其他的预处理器指令_重述.md#📘自我重述#line
+2-输出/4重述笔记/其他的预处理器指令_重述.md#📘自我重述#pragma
+2-输出/4重述笔记/其他的预处理器指令_重述.md#📘自我重述#undef
+2-输出/4重述笔记/其他的预处理器指令_重述.md#📘自我重述#预定义宏
+2-输出/4重述笔记/函数_重述.md
+2-输出/4重述笔记/函数_重述.md#📘自我重述#特点
+2-输出/4重述笔记/函数_重述.md#🤔相关联:
+2-输出/4重述笔记/分配内存_重述.md
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#三种创建数组的方法
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#分配内存的概述
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#分配函数介绍#calloc()
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#分配函数介绍#exit()
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#分配函数介绍#free()
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#分配函数介绍#free()#free()的重要性
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#分配函数介绍#malloc()
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#分配函数介绍#malloc()#malloc()应用例
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#动态内存分配和变长数组
+2-输出/4重述笔记/分配内存_重述.md#📘自我重述#动态内存分配和变长数组#多维数组
+2-输出/4重述笔记/列宁的一生.md
+2-输出/4重述笔记/单向顺序链表_重述.md
+2-输出/4重述笔记/单向顺序链表_重述.md#📘自我重述#创建初始化单向顺序链表的方法#头插法
+2-输出/4重述笔记/单向顺序链表_重述.md#📘自我重述#创建初始化单向顺序链表的方法#尾插法
+2-输出/4重述笔记/单向顺序链表_重述.md#📘自我重述#删除节点(通过数据)
+2-输出/4重述笔记/单向顺序链表_重述.md#📘自我重述#单向顺序链表的介绍
+2-输出/4重述笔记/单向顺序链表_重述.md#📘自我重述#插入节点#中间插入节点(在数据后插入节点)
+2-输出/4重述笔记/单向顺序链表_重述.md#📘自我重述#插入节点#头部插入节点
+2-输出/4重述笔记/单向顺序链表_重述.md#📘自我重述#遍历单向顺序链表
+2-输出/4重述笔记/单向顺序链表_重述.md#📘自我重述#销毁单向顺序链表
+2-输出/4重述笔记/可变参数_重述.md
+2-输出/4重述笔记/可变参数_重述.md#📘自我重述#可变参数和它的宏#va_arg
+2-输出/4重述笔记/可变参数_重述.md#📘自我重述#可变参数和它的宏#va_end
+2-输出/4重述笔记/可变参数_重述.md#📘自我重述#可变参数和它的宏#va_list
+2-输出/4重述笔记/可变参数_重述.md#📘自我重述#可变参数和它的宏#va_start
+2-输出/4重述笔记/可变参数_重述.md#📘自我重述#概念
+2-输出/4重述笔记/可变参数_重述.md#📘自我重述#示例
+2-输出/4重述笔记/各种数据类型_重述.md
+2-输出/4重述笔记/各种数据类型_重述.md#📘自我重述#修饰符
+2-输出/4重述笔记/各种数据类型_重述.md#📘自我重述#整理类型
+2-输出/4重述笔记/各种数据类型_重述.md#📘自我重述#派生类型
+2-输出/4重述笔记/各种数据类型_重述.md#📘自我重述#浮点数类型
+2-输出/4重述笔记/各类函数的特点_重述.md
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#回调函数
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#回调函数#示例
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#库函数
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#自定函数
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#递归函数
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#递归函数#使用
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#递归函数#应用
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#递归函数#示例
+2-输出/4重述笔记/各类函数的特点_重述.md#📘自我重述#静态函数
+2-输出/4重述笔记/各类数组介绍_重述.md
+2-输出/4重述笔记/各类数组的特点_重述.md
+2-输出/4重述笔记/各类数组的特点_重述.md#📘自我重述#一维数组
+2-输出/4重述笔记/各类数组的特点_重述.md#📘自我重述#动态数组
+2-输出/4重述笔记/各类数组的特点_重述.md#📘自我重述#多维数组
+2-输出/4重述笔记/各类数组的特点_重述.md#📘自我重述#字符数组
+2-输出/4重述笔记/各类数组的特点_重述.md#📘自我重述#指针数组
+2-输出/4重述笔记/命令行参数_重述.md
+2-输出/4重述笔记/命令行参数_重述.md#📘自我重述#例子
+2-输出/4重述笔记/命令行参数_重述.md#📘自我重述#声明方式
+2-输出/4重述笔记/命令行参数_重述.md#📘自我重述#定义
+2-输出/4重述笔记/命令行参数_重述.md#🤔问题:#argv\[0] 一定是用来存储程序的名称吗?
+2-输出/4重述笔记/命令行参数_重述.md#🤔问题:#my_program是程序的路径吗?
+2-输出/4重述笔记/命令行参数_重述.md#🤔问题:#命令行参数有什么作用?
+2-输出/4重述笔记/地址与字节_重述.md
+2-输出/4重述笔记/字面量_重述.md
+2-输出/4重述笔记/存储类别_重述.md
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#作用域
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#作用域#函数作用域
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#作用域#函数原型作用域
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#作用域#块作用域
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#作用域#文件作用域
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#作用域、链接、存储期的关系
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#函数的存储类别
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#块作用域的存储期
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#基本存储类别
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#外部变量#使用外部变量
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#外部变量#使用外部变量#外部名称限定
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#外部变量#初始化外部变量
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#外部变量#外部名称限定
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#外部变量#定义和声明
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#多文件
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储期
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储期#线程存储期
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储期#自动存储期
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储期#静态存储期
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储类别、作用域、存储期、链接、声明方式总结
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储类别作用的基本要素#例子
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储类别作用的基本要素#左值
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储类别作用的基本要素#标识符
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储类别的选择
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#存储类别说明符
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#对象
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#嵌套块
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#翻译单元和文件
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#链接
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#链接#链接的分辨
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#静态变量对作用域及链接的影响#内部链接的静态变量
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#静态变量对作用域及链接的影响#块作用域的静态变量
+2-输出/4重述笔记/存储类别_重述.md#📘自我重述#静态变量对作用域及链接的影响#外部链接的静态变量
+2-输出/4重述笔记/导数与微分_重述.md
+2-输出/4重述笔记/布尔逻辑和逻辑门_重述.md
+2-输出/4重述笔记/布尔逻辑和逻辑门_重述.md#📘自我重述#二进制
+2-输出/4重述笔记/布尔逻辑和逻辑门_重述.md#📘自我重述#布尔类型逻辑方式#布尔类型的基本代数#AND
+2-输出/4重述笔记/布尔逻辑和逻辑门_重述.md#📘自我重述#布尔类型逻辑方式#布尔类型的基本代数#NOT
+2-输出/4重述笔记/布尔逻辑和逻辑门_重述.md#📘自我重述#布尔类型逻辑方式#布尔类型的基本代数#OR
+2-输出/4重述笔记/布尔逻辑和逻辑门_重述.md#📘自我重述#布尔类型逻辑方式#布尔类型的基本代数#XOR异或
+2-输出/4重述笔记/布尔逻辑和逻辑门_重述.md#📘自我重述#控制开关所表达信息
+2-输出/4重述笔记/常用函数_重述.md
+2-输出/4重述笔记/常用函数_重述.md#📘自我重述#Size_t
+2-输出/4重述笔记/常用函数_重述.md#📘自我重述#strcpy
+2-输出/4重述笔记/常用函数_重述.md#📘自我重述#strcpy#example
+2-输出/4重述笔记/指针_重述.md
+2-输出/4重述笔记/指针_重述.md#📘自我重述#各类型的指针
+2-输出/4重述笔记/指针_重述.md#📘自我重述#基本定义
+2-输出/4重述笔记/指针_重述.md#📘自我重述#基本用法
+2-输出/4重述笔记/指针_重述.md#📘自我重述#应用场景
+2-输出/4重述笔记/指针_重述.md#🤔相关联:
+2-输出/4重述笔记/指针的运算_重述.md
+2-输出/4重述笔记/指针的运算_重述.md#📘自我重述#应用
+2-输出/4重述笔记/指针的运算_重述.md#📘自我重述#指针的类型决定运算单位
+2-输出/4重述笔记/指针的运算_重述.md#📘自我重述#指针算术运算#减法
+2-输出/4重述笔记/指针的运算_重述.md#📘自我重述#指针算术运算#加法
+2-输出/4重述笔记/指针的运算_重述.md#📘自我重述#指针算术运算#指针之间求差
+2-输出/4重述笔记/指针的运算_重述.md#📘自我重述#指针算术运算#比较
+2-输出/4重述笔记/推优入党.md
+2-输出/4重述笔记/掷骰子_重述.md
+2-输出/4重述笔记/数组_重述.md
+2-输出/4重述笔记/数组_重述.md#📘自我重述#数组声明
+2-输出/4重述笔记/数组_重述.md#📘自我重述#数组声明#C99特殊声明
+2-输出/4重述笔记/数组_重述.md#📘自我重述#特殊情况#未完全初始化
+2-输出/4重述笔记/数组_重述.md#📘自我重述#用法#计算数组的元素个数#通过数组元素个数进行计算
+2-输出/4重述笔记/文字操作.md
+2-输出/4重述笔记/无穷小的阶_重述.md
+2-输出/4重述笔记/无穷小的阶_重述.md#📘自我重述#不同级别的无穷小阶
+2-输出/4重述笔记/无穷小的阶_重述.md#📘自我重述#定义
+2-输出/4重述笔记/无穷小的阶_重述.md#📘自我重述#常见的等价无穷小
+2-输出/4重述笔记/无穷小的阶_重述.md#🤔问题:#此概念有什么应用?
+2-输出/4重述笔记/极限的运算法则_重述.md
+2-输出/4重述笔记/枚举_重述.md
+2-输出/4重述笔记/枚举_重述.md#💻代码区#枚举变量的声明
+2-输出/4重述笔记/枚举_重述.md#💻代码区#枚举的定义#不声明
+2-输出/4重述笔记/枚举_重述.md#💻代码区#枚举的定义#声明
+2-输出/4重述笔记/枚举_重述.md#📘自我重述#枚举变量的使用方法#声明枚举变量
+2-输出/4重述笔记/枚举_重述.md#📘自我重述#枚举变量的使用方法#赋值枚举变量#说明
+2-输出/4重述笔记/枚举_重述.md#📘自我重述#枚举的定义
+2-输出/4重述笔记/枚举_重述.md#📘自我重述#枚举的概念
+2-输出/4重述笔记/枚举_重述.md#📘自我重述#特点
+2-输出/4重述笔记/枚举_重述.md#🤔问题:#枚举有什么用
+2-输出/4重述笔记/求解多项式的极限问题_重述.md
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#X -> a 时的平方根的极限
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#X 一 >oo 时的有理函数的极限
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#X 一>-oo 时的有理函数的极限
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#X 一>-oo 时的有理函数的极限#幂
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#X 一>-oo 时的有理函数的极限#符号
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#X->00 时的多项式型函数的极限
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#x-->a 时的有理函数的极限#分母不为0时
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#x-->a 时的有理函数的极限#分母为0但分子不为0时
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#包含绝对值的函数的极限
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#📘重点摘录#多项式的极限问题的基本类型
+2-输出/4重述笔记/求解多项式的极限问题_重述.md#🤔问题:
+2-输出/4重述笔记/电子计算机_重述.md
+2-输出/4重述笔记/电影工作法_重述.md
+2-输出/4重述笔记/类_重述.md
+2-输出/4重述笔记/类_重述.md#📘自我重述#修饰符
+2-输出/4重述笔记/类_重述.md#📘自我重述#声明
+2-输出/4重述笔记/类_重述.md#📘自我重述#类的定义
+2-输出/4重述笔记/结构体Struct_重述.md
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#sizeof操作符
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#位域(bit Fields)
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#定义结构
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#嵌套结构体
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#嵌套结构体#访问嵌套结构体#常规访问
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#嵌套结构体#访问嵌套结构体#指针访问
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#概念
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#结构体作为函数参数及形参
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#结构体初始化
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#结构体变量
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#结构体指针
+2-输出/4重述笔记/结构体Struct_重述.md#📘自我重述#访问结构体成员
+2-输出/4重述笔记/结构体、共用体_重述.md
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#共用体#内存共享
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#共用体#应用#与结构体联用
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#共用体#应用#节省内存
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#共用体#概念
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#sizeof操作符
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#位域(bit Fields)
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#定义结构
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#嵌套结构体
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#嵌套结构体#访问嵌套结构体#常规访问
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#嵌套结构体#访问嵌套结构体#指针访问
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#概念
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#结构体作为函数参数及形参
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#结构体初始化
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#结构体变量
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#结构体指针
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#结构体指针#动态分配在结构体的应用
+2-输出/4重述笔记/结构体、共用体_重述.md#📘自我重述#结构体#访问结构体成员
+2-输出/4重述笔记/计算机的早期历史_重述.md
+2-输出/4重述笔记/连续性_重述.md
+2-输出/4重述笔记/连续性和可导性_重述.md
+2-输出/4重述笔记/限定符_重述.md
+2-输出/4重述笔记/限定符_重述.md#📘自我重述#const
+2-输出/4重述笔记/限定符_重述.md#📘自我重述#restrict
+2-输出/4重述笔记/限定符_重述.md#📘自我重述#volatile
+2-输出/4重述笔记/限定符_重述.md#📘自我重述#volatile#example
+2-输出/4重述笔记/随机数和静态变量_重述.md
+2-输出/4重述笔记/随机数和静态变量_重述.md#📘自我重述#随机数函数
+2-输出/4重述笔记/随机数和静态变量_重述.md#📘自我重述#随机数函数#rand()
+2-输出/4重述笔记/随机数和静态变量_重述.md#📘自我重述#随机数函数#srand()
+2-输出/4重述笔记/随机数和静态变量_重述.md#📘自我重述#随机数函数#自动重置种子
+2-输出/4重述笔记/随机数和静态变量_重述.md#📘自我重述#随机数函数#通过time()函数自动重置种子
+2-输出/4重述笔记/预处理器_重述.md
+2-输出/5问答笔记/Anki_1.md
+2-输出/5问答笔记/Anki_1.md#📘自我重述#各类型的指针
+2-输出/5问答笔记/Anki_1.md#📘自我重述#基本定义
+2-输出/5问答笔记/Anki_1.md#📘自我重述#基本用法
+2-输出/5问答笔记/Anki_1.md#📘自我重述#应用场景
+2-输出/5问答笔记/Anki_1.md#🤔相关联:
+2-输出/5问答笔记/Anki_12.md
+2-输出/5问答笔记/Anki_define.md
+2-输出/5问答笔记/Anki_define.md#define#宏#小心双引号 card
+2-输出/5问答笔记/Anki_define.md#define#宏#类函数宏 card
+2-输出/5问答笔记/Anki_define.md#define#替换体
+2-输出/5问答笔记/Anki_define.md#define#组成 card
+2-输出/5问答笔记/Anki_define.md#何时使用define#C静态数组的特征 card
+2-输出/5问答笔记/Anki_define.md#何时使用define#助记 card
+2-输出/5问答笔记/Anki_define.md#预处理器运算符#宏延续运算符（\\ )  card
+2-输出/5问答笔记/Anki_define.md#预处理器运算符#宏延续运算符（\\ )  card#字符串常量化运算符() card
+2-输出/5问答笔记/Anki_define.md#预处理器运算符#标记粘贴运算符  card
+2-输出/5问答笔记/Anki_define.md#预处理器运算符#类函数宏和函数的选择 card
+2-输出/5问答笔记/Anki_define.md#预处理器运算符#类函数宏和函数的选择 card#一些简单函数通常使用的宏 card
+2-输出/5问答笔记/Anki_define.md#预处理器运算符#类函数宏和函数的选择 card#宏的优点 card
+2-输出/5问答笔记/Anki_sdf.md
+2-输出/5问答笔记/Anki_sdfsdf.md
+2-输出/5问答笔记/Anki_sfdsf.md
+2-输出/5问答笔记/Anki_单向顺序链表.md
+2-输出/5问答笔记/Anki_单向顺序链表.md#创建初始化单向顺序链表的方法#头插法 card
+2-输出/5问答笔记/Anki_单向顺序链表.md#创建初始化单向顺序链表的方法#尾插法 card
+2-输出/5问答笔记/Anki_单向顺序链表.md#创建初始化单向顺序链表的方法#遍历单向顺序链表 card
+2-输出/5问答笔记/Anki_单向顺序链表.md#单向顺序链表的介绍 card
+2-输出/5问答笔记/Anki_单向顺序链表.md#插入节点#中间插入节点(在数据后插入节点) card
+2-输出/5问答笔记/Anki_单向顺序链表.md#插入节点#删除节点(通过数据) card
+2-输出/5问答笔记/Anki_单向顺序链表.md#插入节点#头部插入节点 card
+2-输出/5问答笔记/Anki_单向顺序链表.md#插入节点#销毁单向顺序链表 card
+2-输出/5问答笔记/Anki_各类数组介绍.md
+2-输出/5问答笔记/Anki_各类数组介绍.md#摘录挖空区#一维数组
+2-输出/5问答笔记/Anki_各类数组介绍.md#摘录挖空区#变长数组(动态数组)
+2-输出/5问答笔记/Anki_各类数组介绍.md#摘录挖空区#多维数组
+2-输出/5问答笔记/Anki_各类数组介绍.md#摘录挖空区#字符数组
+2-输出/5问答笔记/Anki_各类数组介绍.md#摘录挖空区#指针数组
+2-输出/5问答笔记/Anki_存储类别.md
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#作用域
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#作用域#函数作用域
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#作用域#函数原型作用域
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#作用域#块作用域
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#作用域#文件作用域
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#作用域#文件作用域#内部文件作用域
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#作用域#文件作用域#外部文件作用域(全局定义域)
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#块作用域的存储期
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#基本存储类别
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#外部变量#初始化外部变量
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#外部变量#外部名称限定
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储期
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储期#线程存储期
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储期#自动存储期
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储期#静态存储期
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储类别、作用域、存储期、链接、声明方式总结
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储类别作用的基本要素#例子
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储类别作用的基本要素#左值
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储类别作用的基本要素#标识符
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#存储类别说明符
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#对象
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#嵌套块
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#翻译单元和文件
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#链接
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#链接#链接的分辨
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#静态变量对作用域及链接的影响#块作用域的静态变量
+2-输出/5问答笔记/Anki_存储类别.md#摘录挖空区#静态变量对作用域及链接的影响#外部链接的静态变量
+2-输出/5问答笔记/Anki_布尔逻辑和逻辑门.md
+2-输出/5问答笔记/Anki_布尔逻辑和逻辑门.md#摘录挖空区#二进制
+2-输出/5问答笔记/Anki_布尔逻辑和逻辑门.md#摘录挖空区#布尔类型逻辑方式#布尔类型的基本代数#AND
+2-输出/5问答笔记/Anki_布尔逻辑和逻辑门.md#摘录挖空区#布尔类型逻辑方式#布尔类型的基本代数#NOT
+2-输出/5问答笔记/Anki_布尔逻辑和逻辑门.md#摘录挖空区#布尔类型逻辑方式#布尔类型的基本代数#OR
+2-输出/5问答笔记/Anki_布尔逻辑和逻辑门.md#摘录挖空区#布尔类型逻辑方式#布尔类型的基本代数#XOR异或
+2-输出/5问答笔记/Anki_布尔逻辑和逻辑门.md#摘录挖空区#控制开关所表达信息
+2-输出/5问答笔记/Anki_无穷小的阶.md
+2-输出/5问答笔记/Anki_无穷小的阶.md#摘录挖空区#不同级别的无穷小阶
+2-输出/5问答笔记/Anki_无穷小的阶.md#摘录挖空区#定义
+2-输出/5问答笔记/Anki_无穷小的阶.md#摘录挖空区#常见的等价无穷小
+2-输出/5问答笔记/Anki_无穷小的阶.md#问答区#此概念有什么应用? card
+2-输出/5问答笔记/Anki_枚举.md
+2-输出/5问答笔记/Anki_枚举.md#摘录挖空区#枚举变量的使用方法#声明枚举变量
+2-输出/5问答笔记/Anki_枚举.md#摘录挖空区#枚举变量的使用方法#赋值枚举变量
+2-输出/5问答笔记/Anki_枚举.md#摘录挖空区#枚举变量的使用方法#赋值枚举变量#说明
+2-输出/5问答笔记/Anki_枚举.md#摘录挖空区#枚举有什么用
+2-输出/5问答笔记/Anki_枚举.md#摘录挖空区#枚举的定义
+2-输出/5问答笔记/Anki_枚举.md#摘录挖空区#枚举的概念
+2-输出/5问答笔记/Anki_电子计算机.md
+2-输出/5问答笔记/Anki_计算机的早期历史.md
+2-输出/5问答笔记/Anki_随机数和静态变量.md
+2-输出/5问答笔记/Anki_随机数和静态变量.md#摘录挖空区#rand()
+2-输出/5问答笔记/Anki_随机数和静态变量.md#摘录挖空区#srand()
+2-输出/5问答笔记/Anki_随机数和静态变量.md#摘录挖空区#通过time()函数自动重置种子
+2-输出/5问答笔记/Anki_随机数和静态变量.md#问答区#rand()函数
+2-输出/5问答笔记/Anki_随机数和静态变量.md#问答区#srand()和rand()的内部
+2-输出/5问答笔记/Anki_随机数和静态变量.md#问答区#利用srand()给rand()重置随机数演示
+2-输出/5问答笔记/Anki_随机数和静态变量.md#问答区#固定种子就有固定的随机数
+2-输出/5问答笔记/Anki_随机数和静态变量.md#问答区#强制转换
+2-输出/5问答笔记/Anki函数和反函数.md
+2-输出/5问答笔记/Anki函数和反函数.md#函数与反函数的图像关系
+2-输出/5问答笔记/Anki函数和反函数.md#函数的基本概念:
+2-输出/5问答笔记/Anki函数和反函数.md#反函数检验
+2-输出/5问答笔记/Anki函数和反函数.md#反函数概念
+2-输出/5问答笔记/Anki函数和反函数.md#定义域规则:
+2-输出/5问答笔记/Anki多维数组.md
+2-输出/5问答笔记/Anki多维数组.md#问答区#二维数组的可视化图像 card
+2-输出/5问答笔记/Anki多维数组.md#问答区#数组声明的简要介绍 card
+2-输出/5问答笔记/求多项式的极限问题_Anki.md
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#X -> a 时的平方根的极限
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#X 一 >oo 时的有理函数的极限
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#X 一>-oo 时的有理函数的极限
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#X 一>-oo 时的有理函数的极限#幂
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#X 一>-oo 时的有理函数的极限#符号
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#X->00 时的多项式型函数的极限
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#x-->a 时的有理函数的极限#分母不为0时
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#x-->a 时的有理函数的极限#分母为0但分子不为0时
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#包含绝对值的函数的极限
+2-输出/5问答笔记/求多项式的极限问题_Anki.md#包含绝对值的函数的极限#多项式的极限问题的基本类型 card
+2-输出/6每日总结/2023-10-10今日总结.md
+2-输出/6每日总结/2023-10-12今日总结.md
+2-输出/6每日总结/2023-10-13今日总结.md
+2-输出/6每日总结/2023-10-13今日总结1.md
+2-输出/6每日总结/2023-10-14今日总结.md
+2-输出/6每日总结/2023-10-15今日总结.md
+2-输出/6每日总结/2023-10-17今日总结.md
+2-输出/6每日总结/2023-10-24今日总结.md
+2-输出/6每日总结/2023-10-25今日总结.md
+2-输出/6每日总结/2023-11-04今日总结.md
+2-输出/6每日总结/2023-11-06今日总结.md
+2-输出/6每日总结/2023-11-07今日总结.md
+2-输出/6每日总结/2023-11-16今日总结.md
+2-输出/6每日总结/2023-11-18今日总结.md
+2-输出/6每日总结/2023-11-22今日总结.md
+2-输出/6每日总结/2023-11-24今日总结.md
+2-输出/6每日总结/2023-11-27今日总结.md
+2-输出/6每日总结/2023-11-29今日总结.md
+2-输出/6每日总结/2023-11-30今日总结.md
+2-输出/7关系笔记/Connect_指针和数组.md
+2-输出/7关系笔记/Connect_指针和数组.md#📘自我重述:#在数组的指针运算#指针加法
+2-输出/7关系笔记/Connect_指针和数组.md#📘自我重述:#在数组的指针运算#指针求差
+2-输出/7关系笔记/Connect_指针和数组.md#📘自我重述:#指针在数组取值#取值的优先级
+2-输出/7关系笔记/Connect_指针和数组.md#📘自我重述:#通过指针访问数组
+2-输出/7关系笔记/Connect_指针和数组.md#🤔问题:#数组和指针的关联带来了什么作用
+2-输出/7关系笔记/Connect_指针在动态内存分配的应用.md
+2-输出/7关系笔记/Connect_指针数组在函数的应用.md
+2-输出/7关系笔记/Connect_指针数组在函数的应用.md#代码区#函数修改数组的元素
+2-输出/7关系笔记/Connect_指针数组在函数的应用.md#代码区#动态分配数组
+2-输出/7关系笔记/Connect_指针数组在函数的应用.md#代码区#数组作函数的形参
+2-输出/7关系笔记/Connect_数组与指针.md
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#区别#动态性
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#区别#参数传递
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#区别#存储方式和大小
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#区别#定义和声明
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#区别#数组名.vs.指针变量
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#区别#空指针和野指针
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#区别#访问元素
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#数组表示法和指针表示法#表示函数形参#指针
+2-输出/7关系笔记/Connect_数组与指针.md#📘自我重述:#数组表示法和指针表示法#表示函数形参#数组
+2-输出/8单词句子/Unit2句子.md
+2-输出/8单词句子/Unit2句子.md#正文#
+2-输出/8单词句子/Unit2句子.md#正文#1
+2-输出/8单词句子/Unit2句子.md#正文#2
+2-输出/8单词句子/Unit2句子.md#正文#3
+2-输出/8单词句子/Unit2句子.md#正文#4
+2-输出/8单词句子/Unit2句子.md#正文#5
+2-输出/8单词句子/海绵宝宝黄道.md
+2-输出/8单词句子/海绵宝宝黄道.md#正文#P2 0.47
+2-输出/8单词句子/海绵宝宝黄道.md#正文#P2 02.03
+2-输出/8单词句子/海绵宝宝黄道.md#正文#P2 1.13
+2-输出/8单词句子/骗上贼船.md
+2-输出/8视频笔记/video_主题、版式以及母版.md
+3-任务/2023-09-20.md
+3-任务/2023-09-20.md#今天已做任务记录
+3-任务/2023-09-20.md#📖今日任务管理系统
+3-任务/2023-09-21.md
+3-任务/2023-09-21.md#今天已做任务记录
+3-任务/2023-09-21.md#📖今日任务管理系统
+3-任务/2023-09-21.md#📖闪念
+3-任务/2023-09-23.md
+3-任务/2023-09-23.md#今天已做任务记录
+3-任务/2023-09-23.md#📖今日任务管理系统
+3-任务/2023-09-24.md
+3-任务/2023-09-24.md#今天已做任务记录
+3-任务/2023-09-24.md#📖今日任务管理系统
+3-任务/2023-10-06.md
+3-任务/2023-10-06.md#今天已做任务记录
+3-任务/2023-10-06.md#📖今日任务管理系统
+3-任务/2023-10-07.md
+3-任务/2023-10-07.md#今天已做任务记录
+3-任务/2023-10-07.md#📖今日任务管理系统
+3-任务/2023-10-08.md
+3-任务/2023-10-08.md#今天已做任务记录
+3-任务/2023-10-08.md#📖今日任务管理系统
+3-任务/2023-10-09.md
+3-任务/2023-10-09.md#今天已做任务记录
+3-任务/2023-10-09.md#📖今日任务管理系统
+3-任务/2023-10-10.md
+3-任务/2023-10-10.md#今天已做任务记录
+3-任务/2023-10-10.md#📖今日任务管理系统
+3-任务/2023-10-11.md
+3-任务/2023-10-11.md#今天已做任务记录
+3-任务/2023-10-11.md#📖今日任务管理系统
+3-任务/2023-10-13.md
+3-任务/2023-10-13.md#今天已做任务记录
+3-任务/2023-10-13.md#📖今日任务管理系统
+3-任务/2023-10-14.md
+3-任务/2023-10-14.md#今天已做任务记录
+3-任务/2023-10-14.md#📖今日任务管理系统
+3-任务/2023-10-15.md
+3-任务/2023-10-15.md#今天已做任务记录
+3-任务/2023-10-15.md#📖今日任务管理系统
+3-任务/2023-10-17.md
+3-任务/2023-10-17.md#今天已做任务记录
+3-任务/2023-10-17.md#📖今日任务管理系统
+3-任务/2023-10-18.md
+3-任务/2023-10-18.md#今天已做任务记录
+3-任务/2023-10-18.md#📖今日任务管理系统
+3-任务/2023-10-22.md
+3-任务/2023-10-22.md#今天已做任务记录
+3-任务/2023-10-22.md#📖今日任务管理系统
+3-任务/2023-10-23.md
+3-任务/2023-10-23.md#今天已做任务记录
+3-任务/2023-10-23.md#📖今日任务管理系统
+3-任务/2023-10-24.md
+3-任务/2023-10-24.md#今天已做任务记录
+3-任务/2023-10-24.md#📖今日任务管理系统
+3-任务/2023-10-26.md
+3-任务/2023-10-26.md#今天已做任务记录
+3-任务/2023-10-26.md#📖今日任务管理系统
+3-任务/2023-10-27.md
+3-任务/2023-10-27.md#今天已做任务记录
+3-任务/2023-10-27.md#📖今日任务管理系统
+3-任务/2023-10-28.md
+3-任务/2023-10-28.md#今天已做任务记录
+3-任务/2023-10-28.md#📖今日任务管理系统
+3-任务/2023-10-7.md
+3-任务/2023-10-7.md#今天已做任务记录
+3-任务/2023-10-7.md#📖今日任务管理系统
+3-任务/2023-10-8.md
+3-任务/2023-10-8.md#今天已做任务记录
+3-任务/2023-10-8.md#📖今日任务管理系统
+3-任务/2023-10-9.md
+3-任务/2023-10-9.md#今天已做任务记录
+3-任务/2023-10-9.md#📖今日任务管理系统
+3-任务/2023-11-04.md
+3-任务/2023-11-04.md#今天已做任务记录
+3-任务/2023-11-04.md#📖今日任务管理系统
+3-任务/2023-11-05.md
+3-任务/2023-11-05.md#今天已做任务记录
+3-任务/2023-11-05.md#📖今日任务管理系统
+3-任务/2023-11-06.md
+3-任务/2023-11-06.md#1 📖今日任务管理系统
+3-任务/2023-11-06.md#2 今天已做任务记录
+4-成果/1.1 language learner/language插件.md
+4-成果/1.1 language learner/language插件实例 1.md
+4-成果/1.2 todoist与obsidian的联用.md
+4-成果/1.2 todoist与obsidian的联用.md#todoist completed tasks
+4-成果/1.2 todoist与obsidian的联用.md#todoist plugin 使用
+4-成果/1编程/C++.md
+4-成果/1编程/C语言.md
+4-成果/2.1数学/上册.md
+4-成果/2.1数学/普林斯顿微积分-总结.md
+4-成果/3.1 obsidian功能介绍/1.1 language learner/language插件.md
+4-成果/3.1 obsidian功能介绍/1.1 language learner/language插件实例 1.md
+4-成果/3.1 obsidian功能介绍/quickadd.md
+4-成果/3.1 obsidian功能介绍/笔记系统.md
+4-成果/Dataview系列教程/Dataview教程.md
+4-成果/Dataview系列教程/Dataview系列教程.md
+4-成果/Dataview系列教程/入门到退坑系列/All Files that only Link to MOC tagged files.md
+4-成果/Dataview系列教程/入门到退坑系列/Cross File TOC.md
+4-成果/Dataview系列教程/入门到退坑系列/Current File Link Siblings.md
+4-成果/Dataview系列教程/入门到退坑系列/Custom Sorting Index.md
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md#Dv中链接类型拥有的属性
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md#`dv.paragraph` 的内嵌问题
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md#file属性
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md#不要忘记 `.file`
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md#其他小技巧
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md#单向链接
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md#时间类型
+4-成果/Dataview系列教程/入门到退坑系列/Dataview Learnings.md#自定义属性中的时间日期
+4-成果/Dataview系列教程/入门到退坑系列/DataviewJS - 从入门到退坑 01.md
+4-成果/Dataview系列教程/入门到退坑系列/DataviewJS - 从入门到退坑 02.md
+4-成果/Dataview系列教程/入门到退坑系列/DataviewJS - 从入门到退坑 03.md
+4-成果/Dataview系列教程/入门到退坑系列/DataviewJS - 从入门到退坑 04.md
+4-成果/Dataview系列教程/入门到退坑系列/DataviewJS - 从入门到退坑 05.md
+4-成果/Dataview系列教程/入门到退坑系列/DataviewJS - 从入门到退坑 06.md
+4-成果/Dataview系列教程/入门到退坑系列/DataviewJS - 从入门到退坑 07.md
+4-成果/Dataview系列教程/入门到退坑系列/DataviewJS - 从入门到退坑 番外.md
+4-成果/Dataview系列教程/入门到退坑系列/Embed All From Source.md
+4-成果/Dataview系列教程/入门到退坑系列/Embeds in File.md
+4-成果/Dataview系列教程/入门到退坑系列/Fetch Upcoming Games using rawg.io.md
+4-成果/Dataview系列教程/入门到退坑系列/First Header List.md
+4-成果/Dataview系列教程/入门到退坑系列/Get current location.md
+4-成果/Dataview系列教程/入门到退坑系列/Global Tags and Tagged Files.md
+4-成果/Dataview系列教程/入门到退坑系列/Global tag list.md
+4-成果/Dataview系列教程/入门到退坑系列/Notes by Time.md
+4-成果/Dataview系列教程/入门到退坑系列/Recent Notes.md
+4-成果/Dataview系列教程/入门到退坑系列/Reference Arbitrary file relatively with File URL.md
+4-成果/Dataview系列教程/入门到退坑系列/Section Pseudo-Embed.md
+4-成果/Dataview系列教程/入门到退坑系列/TODOs with text-based Countdown.md
+4-成果/Dataview系列教程/入门到退坑系列/Tag Context.md
+4-成果/Dataview系列教程/入门到退坑系列/Tags by Top Level Directories.md
+4-成果/Dataview系列教程/入门到退坑系列/Tags by numeric order.md
+4-成果/Dataview系列教程/入门到退坑系列/Today in the past.md
+4-成果/Dataview系列教程/入门到退坑系列/Today's Notes.md
+4-成果/Dataview系列教程/入门到退坑系列/入门到退坑系列.md
+4-成果/Dataview系列教程/入门到退坑系列/常用Dataview片段.md
+4-成果/Dataview系列教程/入门到退坑系列/常用Dataview片段.md#中文排序
+4-成果/Dataview系列教程/入门到退坑系列/常用Dataview片段.md#倒序
+4-成果/Dataview系列教程/入门到退坑系列/常用Dataview片段.md#判定同一天/同时
+4-成果/Dataview系列教程/入门到退坑系列/常用Dataview片段.md#按格式显示时间
+4-成果/Dataview系列教程/入门到退坑系列/常用Dataview片段.md#时间先后
+4-成果/Dataview系列教程/入门到退坑系列/常用Dataview片段.md#时间差
+4-成果/Dataview系列教程/入门到退坑系列/常用Dataview片段.md#筛选
+4-成果/Dataview系列教程/🔑Dataview教程.md
+4-成果/MOC/高数上册MOC.md
+4-成果/obsidian column使用方法.md
+4-成果/obsidian图书管理思路.md
+4-成果/时间管理度.md
+HOMEPAGE.md
+HOMEPAGE.md#***OBSIDIAN ACTIVITY***
+HOMEPAGE.md#三天内创建的笔记
+HOMEPAGE.md#最近编辑
+Home.md
+Readme.md
+Readme.md#引言
+Readme.md#快捷键
+Readme.md#插件介绍
+Readme.md#文件夹说明
+未命名思维导图.md

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"077ecf37526a9abb","x":-828,"y":-240,"width":1158,"height":405,"type":"group","label":"数据，数据元素，数据项的区分"},
+		{"id":"91311bcdd01e14d2","x":387,"y":780,"width":1158,"height":405,"type":"group","label":"数据结构的理解"},
+		{"id":"abbdd761eeb112c0","x":1505,"y":-720,"width":972,"height":437,"type":"group","label":"数据对象的理解"},
+		{"id":"511e7550d8bb33b1","type":"text","text":"数据项(data item)","x":-808,"y":85,"width":250,"height":60},
+		{"id":"72a0c6bcf9ad9cd3","type":"text","text":"数据(data)","x":-260,"y":-220,"width":250,"height":60},
+		{"id":"0528b63f2b24053c","type":"text","text":"数据元素(结点)","x":-497,"y":-128,"width":250,"height":60},
+		{"id":"3a33fb1ceef0906e","type":"text","text":"数据元素(结点)","x":-219,"y":-128,"width":250,"height":60},
+		{"id":"b5ede206effb13df","type":"text","text":"数据元素(结点)","x":60,"y":-128,"width":250,"height":60},
+		{"id":"72afb4949dfb3fe9","type":"text","text":"数据元素(结点)","x":-650,"y":-27,"width":250,"height":60},
+		{"id":"b43738b7313074c9","type":"text","text":"数据元素","x":1525,"y":-503,"width":250,"height":60},
+		{"id":"83656ab542db3e59","type":"text","text":"数据元素","x":1777,"y":-509,"width":250,"height":60},
+		{"id":"84618ab7df5c406b","type":"text","text":"数据元素","x":1989,"y":-511,"width":250,"height":60},
+		{"id":"674c19e1ce4b312a","type":"text","text":"数据元素","x":2207,"y":-512,"width":250,"height":60},
+		{"id":"de5d1423dd8696c9","type":"text","text":"性质相同,即为数据对象","x":1727,"y":-363,"width":250,"height":60},
+		{"id":"13b0c1e2d6474e26","type":"text","text":"数据","x":1852,"y":-700,"width":250,"height":60},
+		{"id":"949afa38418e2a4b","type":"text","text":"数据项(data item)","x":407,"y":1105,"width":250,"height":60},
+		{"id":"8343c286bde3f210","type":"text","text":"数据(data)","x":955,"y":800,"width":250,"height":60},
+		{"id":"d699fffbf97c70f8","type":"text","text":"数据元素(结点)","x":718,"y":892,"width":250,"height":60},
+		{"id":"8fdb0158d862afa9","type":"text","text":"数据元素(结点)","x":996,"y":892,"width":250,"height":60},
+		{"id":"05430f9652f643f3","type":"text","text":"数据元素(结点)","x":1275,"y":892,"width":250,"height":60},
+		{"id":"07dd0f127c031efc","type":"text","text":"数据元素(结点)","x":565,"y":993,"width":250,"height":60},
+		{"id":"263276e51986a444","x":836,"y":978,"width":250,"height":60,"type":"text","text":"关系(逻辑结构)"}
+	],
+	"edges":[
+		{"id":"02e5573996064a02","fromNode":"b43738b7313074c9","fromSide":"bottom","toNode":"de5d1423dd8696c9","toSide":"top"},
+		{"id":"15ccfe5e97f335de","fromNode":"83656ab542db3e59","fromSide":"bottom","toNode":"de5d1423dd8696c9","toSide":"top"},
+		{"id":"8e617f9eb401c8d6","fromNode":"84618ab7df5c406b","fromSide":"bottom","toNode":"de5d1423dd8696c9","toSide":"top"},
+		{"id":"35bf86f40259d700","fromNode":"13b0c1e2d6474e26","fromSide":"bottom","toNode":"b43738b7313074c9","toSide":"top"},
+		{"id":"59b1fe26f8132283","fromNode":"13b0c1e2d6474e26","fromSide":"bottom","toNode":"83656ab542db3e59","toSide":"top"},
+		{"id":"7852e2dd9d3a17c8","fromNode":"13b0c1e2d6474e26","fromSide":"bottom","toNode":"84618ab7df5c406b","toSide":"top"},
+		{"id":"66eadfce45e013fd","fromNode":"13b0c1e2d6474e26","fromSide":"bottom","toNode":"674c19e1ce4b312a","toSide":"top"},
+		{"id":"f3ad8f14719bbe5b","fromNode":"d699fffbf97c70f8","fromSide":"bottom","toNode":"263276e51986a444","toSide":"top"},
+		{"id":"138c48af953a1ea1","fromNode":"8fdb0158d862afa9","fromSide":"bottom","toNode":"263276e51986a444","toSide":"bottom"}
+	]
+}

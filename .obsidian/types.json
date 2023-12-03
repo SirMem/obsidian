@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "description": "text",
+    "totalPage": "datetime",
+    "due": "date",
+    "startdate": "date",
+    "endDate": "date",
+    "publishDate": "date",
+    "langr": "text",
+    "langr-origin": "text",
+    "creation_date": "date",
+    "title": "text"
+  }
+}

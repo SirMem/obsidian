@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"59550e2b36cd101f","type":"text","text":"1. [x] 确定计算机比赛项目 ","x":-70,"y":-40,"width":250,"height":60},
+		{"id":"dc03b9f9bd28a6dc","type":"file","file":"1-输入/2-碎片笔记/2023-08-28.md","x":-145,"y":80,"width":400,"height":460},
+		{"id":"492af06ac2c039a6","type":"text","text":"- [ ] 2.确定报名方式","x":420,"y":-40,"width":250,"height":60},
+		{"id":"3b4877625df6438c","x":374,"y":172,"width":250,"height":60,"type":"text","text":"计算机的学习路线"}
+	],
+	"edges":[
+		{"id":"882c228f6fbc272f","fromNode":"59550e2b36cd101f","fromSide":"bottom","toNode":"dc03b9f9bd28a6dc","toSide":"top"},
+		{"id":"42c0f04235f449bb","fromNode":"59550e2b36cd101f","fromSide":"right","toNode":"492af06ac2c039a6","toSide":"left"}
+	]
+}

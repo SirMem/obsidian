@@ -1,0 +1,228 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "1-输入/2-碎片笔记/1外刊",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 180
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "name",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "505cb107-90a9-43fb-9e61-828952c6a581",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "004ebd74-a4ab-4360-9713-409f7ba50be0",
+          "name": "日历",
+          "type": "calendar"
+        }
+      ],
+      "id": "36ee8490-6c2b-4bad-a78a-c396436d32a2",
+      "name": "外刊"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "2-输出",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d5220667-d6eb-489e-a03b-ff66b10d5697",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "905ed58f-eb26-4587-bc78-1da4f34bdb7a",
+          "name": "日历",
+          "type": "calendar"
+        }
+      ],
+      "id": "b60f6e08-7255-44f7-9bd4-896dd40bbf45",
+      "name": "输出面板"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "4-成果",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "cd981758-f7d4-4c44-99af-ee0bbb79d73c",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "1c4ccf20-b6fc-4501-aec6-2494d2852b1a",
+      "name": "成果"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "1-输入",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b69ba601-b9e1-42e6-8d81-5b2bc1bdac46",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e8e3479a-2741-4271-95b9-3a0327928948",
+          "name": "画册",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1b556952-4994-4b39-b58b-32824cd477d6",
+          "name": "日历",
+          "type": "calendar"
+        }
+      ],
+      "id": "c0a05c5b-9928-41d8-9756-36ac21047b3c",
+      "name": "输入面板"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "QUOTE_DOUBLE"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}

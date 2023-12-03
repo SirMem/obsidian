@@ -1,0 +1,2 @@
+- [C Primer Plus 第6版 中文版](obsidian://bookmaster?type=open-book&bid=nPpXHawlbwqKtrsN)
+- [大话数据结构_4](obsidian://bookmaster?type=open-book&bid=dqpasEqelmapoFsu)

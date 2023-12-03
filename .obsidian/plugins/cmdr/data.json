@@ -1,0 +1,61 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "flashcards-obsidian:generate-flashcard-current-file",
+      "icon": "alarm-clock",
+      "name": "Flashcards: Generate for the current file",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-projects:show-projects",
+      "icon": "activity",
+      "name": "Projects: 打开项目",
+      "mode": "any"
+    },
+    {
+      "id": "todoist-completed-tasks-plugin:todoist-fetch-completed-tasks-for-last-n-hours",
+      "icon": "align-center-horizontal",
+      "name": "Todoist completed tasks: Fetch completed tasks for last N hours",
+      "mode": "any"
+    },
+    {
+      "id": "number-headings-obsidian:number-headings-with-options",
+      "icon": "alert-octagon",
+      "name": "Number Headings: Number all headings in document (and show options)",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate",
+      "icon": "alarm-minus",
+      "name": "Excalidraw: 新建绘图 - 于新面板",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

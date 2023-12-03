@@ -1,0 +1,235 @@
+{
+  "obsidian-language-learner:langr-search-word": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "editor:toggle-comments": [],
+  "quickadd:choice:59672f5a-4fe9-485d-8a2d-f096dc75f99a": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "quickadd:choice:d571b11a-068e-403f-8f18-752c3e9447a9": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "quickadd:choice:9dcd9b4d-bcf4-4f5a-86f6-ee2db3784f86": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "quickadd:choice:9b380310-1fee-4b7e-99eb-1f7a13e70815": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad3"
+    }
+  ],
+  "quickadd:choice:5c1ffecc-fa65-4374-9080-9d2a4eac1770": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad4"
+    }
+  ],
+  "quickadd:choice:c616b01b-8348-44ba-ac28-dab6c667fa86": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad6"
+    }
+  ],
+  "quickadd:choice:e6a837a8-2ac5-4ebe-b08f-426c7cdcdcf4": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad7"
+    }
+  ],
+  "quickadd:choice:8d81218e-d300-40a6-843b-85e0aa6b100f": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad8"
+    }
+  ],
+  "obsidian-projects:show-projects": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad9"
+    }
+  ],
+  "quickadd:choice:280522bd-9394-4fff-8af3-5ac33fe888a0": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad0"
+    }
+  ],
+  "quickadd:choice:f0edc1ad-eec5-4b10-812d-2c5b00482587": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad3"
+    }
+  ],
+  "quickadd:choice:62e06475-1646-49da-9f9a-6441675e8aba": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad4"
+    }
+  ],
+  "quickadd:choice:fb934b37-a128-4961-8aa3-9b1cfd517f0d": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad5"
+    }
+  ],
+  "quickadd:choice:13711b5a-57d1-45da-8ecf-f117af27383f": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad6"
+    }
+  ],
+  "quickadd:choice:b6732c50-664e-48cb-823e-383188501533": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad7"
+    }
+  ],
+  "quickadd:choice:161188b1-575a-4651-9cbb-dfff0c73e51b": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad0"
+    }
+  ],
+  "quickadd:choice:bad5c315-82bf-45bf-afd5-6e562900b8b6": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
+  ],
+  "quickadd:choice:10df7e20-65a5-43df-81d9-a4f396a918ef": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "quickadd:choice:75b2aa00-fea0-46d7-9cc7-0078839b082c": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
+  ],
+  "quickadd:choice:6d6177f3-f1b8-43af-98a3-6d974b2fb6ad": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad7"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "quickadd:choice:5eed61a7-9b1b-45e6-86a1-239781f05887": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad4"
+    }
+  ],
+  "quickadd:choice:63955522-4380-4dc9-a184-5cb2c86d0f9c": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "quickadd:choice:155c722a-dbf8-4094-80cc-1c3975882594": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad9"
+    }
+  ],
+  "quickadd:choice:ddc8b986-f5af-4441-8396-56f740681953": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad0"
+    }
+  ],
+  "quickadd:choice:974efed5-6cb6-462c-b4b2-152db40393c9": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad3"
+    }
+  ],
+  "quickadd:choice:712124c1-f240-4b4e-b1c8-a9579927419c": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad4"
+    }
+  ]
+}

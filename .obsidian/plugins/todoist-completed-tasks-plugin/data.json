@@ -1,0 +1,10 @@
+{
+  "settingsVersion": 5,
+  "keywordSegmentStart": "%% COMPLETED_TODOIST_TASKS_START %%",
+  "keywordSegmentEnd": "%% COMPLETED_TODOIST_TASKS_END %%",
+  "authToken": "10a16ab154d9d66c1362305b3097e5da6a58856c",
+  "taskPrefix": "*",
+  "taskPostfix": "",
+  "renderSubtasks": true,
+  "renderProjectsHeaders": true
+}

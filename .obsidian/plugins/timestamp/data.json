@@ -1,0 +1,12 @@
+{
+  "noteTitle": "",
+  "urlStartTimeMap": {},
+  "urlColor": "#0000FF",
+  "timestampColor": "#008000",
+  "urlTextColor": "#FFFFFF",
+  "timestampTextColor": "#FFFFFF",
+  "forwardSeek": "10",
+  "backwardsSeek": "10",
+  "port": 0,
+  "startAtLastPosition": false
+}
