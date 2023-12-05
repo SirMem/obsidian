@@ -7,6 +7,10 @@ name: JavaScript权威指南(第6版)(中文版)
 ext: pdf
 visual: false
 type: unknown
-status: unread
-progress: 37
+status: reading
+progress: 41
+authors: []
+tags: []
+rating: 0
+total: 1018
 ---

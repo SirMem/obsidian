@@ -216,7 +216,7 @@
       "key": "Numpad0"
     }
   ],
-  "quickadd:choice:974efed5-6cb6-462c-b4b2-152db40393c9": [
+  "quickadd:choice:85303780-0461-4020-84ba-82c8773b205f": [
     {
       "modifiers": [
         "Mod"
@@ -230,6 +230,14 @@
         "Mod"
       ],
       "key": "Numpad4"
+    }
+  ],
+  "quickadd:choice:974efed5-6cb6-462c-b4b2-152db40393c9": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad5"
     }
   ]
 }

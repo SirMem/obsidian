@@ -53,5 +53,6 @@
   "workspaces-plus",
   "obsidian-bookmaster-plugin",
   "oz-clear-unused-images",
-  "metaedit"
+  "metaedit",
+  "obsidian-tikzjax"
 ]

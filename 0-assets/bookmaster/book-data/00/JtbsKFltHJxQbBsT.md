@@ -8,5 +8,8 @@ ext: pdf
 visual: false
 type: book
 status: reading
-progress: 91
+progress: 318
+authors: []
+tags: []
+total: 670
 ---

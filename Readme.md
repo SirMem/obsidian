@@ -1,3 +1,4 @@
+\begin{Vmatrix}
 # 引言
 本Obsidian库由Needyou建立，参考了B站up主Johnny的[IOTO系统](https://www.bilibili.com/video/BV1Y14y1r7xJ/?spm_id_from=333.337.search-card.all.click&vd_source=8b450300cfa6415cb0312754cf65ba30)以及知乎博主叶峻峣的[渐进阅读](https://zhuanlan.zhihu.com/p/374403541) 
 本库是一个包含Obsidian基本功能的入门库，并内置了Obsidian常用插件。并与Anki、Todoist、Cubox等进行了联用，助力工作流的建立。
@@ -108,5 +109,13 @@ AHK 快速打开
 不通过Quickadd快速打开obsidian库文件
 创建工作区(智能填写)
 
+在微积分中，一个函数的原函数（也称为不定积分或反导数）是指对应于另一个函数导数的函数。如果函数  \(F(x)\)  是函数 \(f(x)\) 的原函数，这意味着 \(F'(x) = f(x)\)，其中 \(F'(x)\) 表示函数 \(F(x)\) 的导数，\(f(x)\) 是原始函数。
 
-![embed video|vid-40](link)
+换句话说，如果你有一个函数 \(f(x)\)，寻找它的原函数 \(F(x)\) 意味着找到一个与 \(f(x)\) 的导数相对应的函数。在符号上通常表示为：
+
+\[ \int f(x) \,dx = F(x) + C \]
+
+这里的符号 \(\int\) 表示积分，\(f(x)\) 是被积函数，\(F(x)\) 是 \(f(x)\) 的一个原函数，\(C\) 是一个常数（被称为积分常数），因为对于相同的函数 \(f(x)\) 可能存在多个原函数，它们之间的区别就是这个常数 \(C\)。
+
+需要注意的是，求解一个函数的原函数时，由于存在积分常数，通常得到的是一个函数族。
+ \[ ∫ f(x)  dx = F(x) + C \]

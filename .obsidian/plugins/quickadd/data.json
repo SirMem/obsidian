@@ -734,7 +734,7 @@
           "openFileInMode": "default"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "974efed5-6cb6-462c-b4b2-152db40393c9",
@@ -798,6 +798,41 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "85303780-0461-4020-84ba-82c8773b205f",
+      "name": "过程跟踪",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "3过程跟踪/{{value:请输入项目名}}_跟踪.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "---\ndue: <% tp.date.now(\"yyyy-MM-DD\") %> \n<%* let title = tp.file.title \nif (title.startsWith(\"Untitled\")){ title = await tp.system.prompt(\"Title\"); await tp.file.rename(title); } %>\ntitle: <% title%>\ntags: 过程跟踪\n---\n\n[[{{value:请输入链接名}}_卡片]]\n\n- [ ] 卡片笔记\n- [ ] 重述笔记\n- [ ] Anki笔记\n\n全完成后删除此文件\n\n\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [

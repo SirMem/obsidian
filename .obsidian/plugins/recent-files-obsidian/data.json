@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "HOMEPAGE",
+      "path": "HOMEPAGE.md"
+    },
+    {
+      "basename": "微分中值定理excalidraw",
+      "path": "0-assets/excalidraw/微分中值定理excalidraw.md"
+    },
+    {
+      "basename": "布局操作",
+      "path": "0-assets/excalidraw/布局操作.md"
+    },
+    {
+      "basename": "2023-12-05",
+      "path": "2-输出/1闪念笔记/2023-12-05.md"
+    },
+    {
+      "basename": "注册表_卡片",
+      "path": "2-输出/2卡片笔记/注册表_卡片.md"
+    },
+    {
+      "basename": "注册表_跟踪",
+      "path": "3过程跟踪/注册表_跟踪.md"
+    },
+    {
+      "basename": "自动创建时间和识别标题的yaml代码模版",
+      "path": "0-assets/template/自动创建时间和识别标题的yaml代码模版.md"
+    },
+    {
+      "basename": "过程跟踪模板",
+      "path": "0-assets/template/过程跟踪模板.md"
+    },
+    {
+      "basename": "HtmlMOC",
+      "path": "4-成果/MOC/HtmlMOC.md"
+    },
+    {
+      "basename": "区块和行内元素_重述",
+      "path": "2-输出/4重述笔记/区块和行内元素_重述.md"
+    },
+    {
+      "basename": "列表_重述",
+      "path": "2-输出/4重述笔记/列表_重述.md"
+    },
+    {
+      "basename": "表格_重述",
+      "path": "2-输出/4重述笔记/表格_重述.md"
+    },
+    {
+      "basename": "文本格式化_重述",
+      "path": "2-输出/4重述笔记/文本格式化_重述.md"
+    },
+    {
+      "basename": "图像及参数_重述",
+      "path": "2-输出/4重述笔记/图像及参数_重述.md"
+    },
+    {
+      "basename": "HTML超链接_重述",
+      "path": "2-输出/4重述笔记/HTML超链接_重述.md"
+    },
+    {
+      "basename": "标题和段落_重述",
+      "path": "2-输出/4重述笔记/标题和段落_重述.md"
+    },
+    {
+      "basename": "html的结构解析_重述",
+      "path": "2-输出/4重述笔记/html的结构解析_重述.md"
+    },
+    {
+      "basename": "定积分excalidraw",
+      "path": "0-assets/excalidraw/定积分excalidraw.md"
+    },
+    {
       "basename": "Readme",
       "path": "Readme.md"
+    },
+    {
+      "basename": "2023-12-03",
+      "path": "2-输出/1闪念笔记/2023-12-03.md"
     },
     {
       "basename": "C++",
@@ -21,20 +97,12 @@
       "path": "2-输出/4重述笔记/链式调用_重述.md"
     },
     {
-      "basename": "HOMEPAGE",
-      "path": "HOMEPAGE.md"
-    },
-    {
       "basename": "static 模版excalidraw",
       "path": "0-assets/excalidraw/static 模版excalidraw.md"
     },
     {
       "basename": "STL的思维导图excalidraw",
       "path": "0-assets/excalidraw/STL的思维导图excalidraw.md"
-    },
-    {
-      "basename": "布局操作",
-      "path": "0-assets/excalidraw/布局操作.md"
     },
     {
       "basename": "复合函数导数(微分法)excalidraw",
@@ -127,74 +195,6 @@
     {
       "basename": "C++ 卡片",
       "path": "0-assets/dataview/C++ 卡片.md"
-    },
-    {
-      "basename": "1.2 todoist与obsidian的联用",
-      "path": "4-成果/1.2 todoist与obsidian的联用.md"
-    },
-    {
-      "basename": "卡片",
-      "path": "0-assets/dataview/卡片.md"
-    },
-    {
-      "basename": "重述",
-      "path": "0-assets/dataview/重述.md"
-    },
-    {
-      "basename": "栈_卡片",
-      "path": "2-输出/2卡片笔记/栈_卡片.md"
-    },
-    {
-      "basename": "学习之道书籍阅读",
-      "path": "2-输出/2卡片笔记/学习之道书籍阅读.md"
-    },
-    {
-      "basename": "用SSH密钥进行github身份认证_卡片",
-      "path": "2-输出/2卡片笔记/用SSH密钥进行github身份认证_卡片.md"
-    },
-    {
-      "basename": "github提交整个过程excalidraw",
-      "path": "0-assets/excalidraw/github提交整个过程excalidraw.md"
-    },
-    {
-      "basename": "2023-11-05",
-      "path": "3-任务/2023-11-05.md"
-    },
-    {
-      "basename": "2023-11-06",
-      "path": "3-任务/2023-11-06.md"
-    },
-    {
-      "basename": "2023-09-24",
-      "path": "3-任务/2023-09-24.md"
-    },
-    {
-      "basename": "2023-09-21",
-      "path": "3-任务/2023-09-21.md"
-    },
-    {
-      "basename": "左值和右值_卡片",
-      "path": "2-输出/2卡片笔记/左值和右值_卡片.md"
-    },
-    {
-      "basename": "多态_卡片",
-      "path": "2-输出/2卡片笔记/多态_卡片.md"
-    },
-    {
-      "basename": "RTTI_卡片",
-      "path": "2-输出/2卡片笔记/RTTI_卡片.md"
-    },
-    {
-      "basename": "强制转换符cast_卡片",
-      "path": "2-输出/2卡片笔记/强制转换符cast_卡片.md"
-    },
-    {
-      "basename": "类型双关_卡片",
-      "path": "2-输出/2卡片笔记/类型双关_卡片.md"
-    },
-    {
-      "basename": "指针_重述",
-      "path": "2-输出/4重述笔记/指针_重述.md"
     }
   ],
   "omittedPaths": [],

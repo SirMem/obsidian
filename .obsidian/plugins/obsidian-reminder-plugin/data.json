@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "3过程跟踪/注册表_跟踪.md": [
+      {
+        "title": "重述笔记",
+        "time": "2023-12-06",
+        "rowNumber": 9
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
