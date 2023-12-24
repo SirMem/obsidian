@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a932371a313468aa",
+        "id": "491179396d10deb9",
         "type": "tabs",
         "children": [
           {
-            "id": "6f83d8ee896c3078",
+            "id": "e116535a9504f32b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOMEPAGE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48fca7930fcce107",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0-assets/excalidraw/微分中值定理excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -59,12 +45,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "this指针",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -77,18 +63,18 @@
             }
           },
           {
-            "id": "58ded251b380f80e",
+            "id": "a6f24a7df411f980",
             "type": "leaf",
             "state": {
-              "type": "surfing-tab-tree",
+              "type": "bm-explorer-view",
               "state": {}
             }
           },
           {
-            "id": "2b87ed2765c5837d",
+            "id": "933db08ebd3aaba3",
             "type": "leaf",
             "state": {
-              "type": "bm-explorer-view",
+              "type": "surfing-tab-tree",
               "state": {}
             }
           }
@@ -127,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOMEPAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOMEPAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HOMEPAGE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -242,70 +224,71 @@
       "todoist-completed-tasks-plugin:Fetch today's completed tasks": false,
       "obsidian-spaced-repetition-recall:复习卡片": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "obsidian-language-learner:打开查词面板": false,
       "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
       "obsidian-language-learner:单词列表": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-bookmaster-plugin:Book Explorer": false,
-      "awesome-brain-manager:Awesome Brain Manager": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-memos:Memos": false
+      "awesome-brain-manager:Awesome Brain Manager": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-memos:Memos": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6f83d8ee896c3078",
+  "active": "e116535a9504f32b",
   "lastOpenFiles": [
-    "2-输出/5问答笔记/Anki_test.md",
-    "0-assets/附件/Pasted image 20231205212526.png",
-    "0-assets/excalidraw/微分中值定理excalidraw.md",
-    "0-assets/excalidraw/布局操作.md",
+    "2-输出/2卡片笔记/test_卡片.md",
+    "2-输出/5问答笔记/Anki_政治绪论.md",
     "HOMEPAGE.md",
-    "2-输出/2卡片笔记/注册表_卡片.md",
-    "3过程跟踪/注册表_跟踪.md",
-    "3过程跟踪",
-    "0-assets/template/自动创建时间和识别标题的yaml代码模版.md",
-    "3-过程跟踪",
-    "3-任务/2023-11-06.md",
-    "3-任务/2023-11-05.md",
-    "3-任务/2023-10-08.md",
-    "3-任务/2023-10-11.md",
-    "3-任务/2023-09-23.md",
-    "0-assets/template/过程跟踪模板.md",
-    "2-输出/1闪念笔记/2023-12-05.md",
-    "2-输出/4重述笔记/区块和行内元素_重述.md",
-    "4-成果/MOC/HtmlMOC.md",
-    "2-输出/4重述笔记/列表_重述.md",
-    "2-输出/4重述笔记/文本格式化_重述.md",
-    "2-输出/4重述笔记/表格_重述.md",
-    "2-输出/4重述笔记/图像及参数_重述.md",
-    "2-输出/4重述笔记/HTML超链接_重述.md",
-    "2-输出/4重述笔记/标题和段落_重述.md",
-    "2-输出/4重述笔记/html的结构解析_重述.md",
-    "2-输出/1闪念笔记/2023-12-04.md",
+    "2-输出/4重述笔记/政治绪论-新时代_重述.md",
+    "3-任务/2023-12-24.md",
+    "2-输出/1闪念笔记/2023-12-24.md",
+    "0-assets/excalidraw/第一章excalidraw.md",
+    "3-任务",
+    "0-assets/bookmaster/book-images/00/zVBWDgpsGbCmsIRy-341c4cef-c321-1b39-d6e7-e3fdd1b3ce4c.png",
+    "2-输出/1闪念笔记/2023-12-23.md",
+    "0-assets/bookmaster/book-data/00/EqfqohHypLvoacDL.md",
+    "0-assets/bookmaster/book-annotations/00/yZhXbPMwEsyLslcX.xml",
+    "0-assets/bookmaster/book-data/00/yZhXbPMwEsyLslcX.md",
+    "bookmaster/book-annotations/00/yZhXbPMwEsyLslcX.xml",
+    "bookmaster/book-annotations/00",
+    "bookmaster/book-annotations",
+    "bookmaster/book-data/00/yZhXbPMwEsyLslcX.md",
+    "bookmaster/book-data/00/ZcBOBOfZjaHJuXfa.md",
+    "bookmaster/book-data/00",
+    "bookmaster/book-data",
+    "bookmaster",
+    "0-assets/bookmaster/book-images/00/cZbxBdxLqGIOTpOA-b30c782d-3a95-b95b-0961-cbf3c4410764.png",
+    "0-assets/bookmaster/book-images/00/cZbxBdxLqGIOTpOA-214a5010-36a2-5480-dda9-c912cc7ae119.png",
+    "0-assets/bookmaster/book-images/00/cZbxBdxLqGIOTpOA-a29f4941-cb11-5b21-5678-e10bab83cb53.png",
+    "0-assets/bookmaster/book-images/00/cZbxBdxLqGIOTpOA-208cfb35-19b7-ee6b-3e7f-8184cfafb1f3.png",
+    "0-assets/bookmaster/book-annotations/00/cZbxBdxLqGIOTpOA.xml",
+    "0-assets/bookmaster/book-data/00/cZbxBdxLqGIOTpOA.md",
+    "0-assets/bookmaster/book-images/00/zVBWDgpsGbCmsIRy-22b3cba5-b1a5-f6b5-eda9-b06cf82b3af3.png",
+    "0-assets/bookmaster/book-images/00/zVBWDgpsGbCmsIRy-6bff2df8-89e7-5fea-6a61-680e677f8227.png",
+    "0-assets/bookmaster/book-images/00/zVBWDgpsGbCmsIRy-ad1546a3-7abf-63d9-62c7-3350577748bd.png",
+    "0-assets/bookmaster/book-images/00/zVBWDgpsGbCmsIRy-25d45ee2-edc3-73ac-f80f-a78c08ed314d.png",
+    "0-assets/bookmaster/book-images/00/bFesBtQkDJZiWCaw-af2a5b33-161a-8fdd-da49-d8e127432d8d.png",
+    "0-assets/bookmaster/book-data/00/zVBWDgpsGbCmsIRy.md",
+    "0-assets/bookmaster/book-data/00/VDCtoHccPhDlkwJE.md",
+    "0-assets/bookmaster/book-annotations/00/bFesBtQkDJZiWCaw.xml",
+    "2-输出/1闪念笔记/2023-12-22.md",
+    "0-assets/excalidraw/递归在内存中的变化excalidraw.md",
+    "0-assets/excalidraw/迭代器excalidraw.md",
     "0-assets/excalidraw/定积分excalidraw.md",
-    "0-assets/附件/Pasted image 20231203170501.png",
-    "1-输入/1-原始资料/书籍/vbird-linux-basic-4e.pdf",
-    "1-输入/1-原始资料/书籍/Thomas_calculus_14th_En.pdf",
-    "4-成果/MOC",
-    "4-成果/未命名",
-    "0-assets/周笔记",
-    "bookmaster/book-images/00/dqpasEqelmapoFsu-a2f8443a-8e7a-9b24-4f84-a93c56e60635.png",
-    "bookmaster/book-images/00",
-    "bookmaster/book-images",
-    "bookmaster/book-annotations/00/dqpasEqelmapoFsu.xml",
-    "0-assets/附件/Pasted Image 20231128105021_230.png",
-    "0-assets/附件/Pasted Image 20231128091436_293.png",
-    "0-assets/附件/03974EE5.png",
-    "0-assets/附件/Pasted Image 20231125214738_241.png",
-    "0-assets/附件/Pasted Image 20231125214625_506.png",
-    "0-assets/附件/Pasted Image 20231125212137_242.png",
-    "0-assets/附件/Pasted Image 20231125211729_832.png",
+    "4-成果/1编程/C语言.md",
+    "2-输出/2卡片笔记/模版_卡片.md",
+    "excalibrain.md",
+    "4-成果/1编程/C++.md",
+    "4-成果/MOC/社会主义人物.md",
+    "4-成果/1.2 todoist与obsidian的联用.md",
+    "4-成果/时间管理度.md",
     "2-输出/3mindmap/未命名.canvas",
     "2-输出/3mindmap/未命名 1.canvas",
     "2-输出/3mindmap/树状数据术语的理解.canvas",

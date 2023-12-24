@@ -239,5 +239,13 @@
       ],
       "key": "Numpad5"
     }
+  ],
+  "quickadd:choice:0d33e519-f215-4994-b3a2-aa52b8ce3940": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad6"
+    }
   ]
 }

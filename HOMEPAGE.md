@@ -174,6 +174,3 @@ action obsidian://open?vault=LinYie&file=0-assets%2F%E5%B7%A5%E4%BD%9C%E5%8C%BA%
 
 
 
-
-
-

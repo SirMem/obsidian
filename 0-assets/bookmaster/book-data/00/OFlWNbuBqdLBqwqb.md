@@ -7,5 +7,10 @@ name: hello-algo-1.0.0b5-zh-cpp
 ext: pdf
 visual: false
 type: unknown
-status: unread
+status: reading
+authors: []
+tags: []
+rating: 0
+progress: 100
+total: 377
 ---

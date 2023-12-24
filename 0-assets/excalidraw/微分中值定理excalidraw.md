@@ -29,6 +29,7 @@ e30176316bab514743b6a6a366547109c6e6ac8e: [[Pasted Image 20231125115048_235.png]
 67024b051acc0bf44cc15c3babd85a2a53157123: [[Pasted Image 20231125115416_768.png]]
 759d04ab25de4b0ba68d5b5046ccabfd72b3c50f: [[Pasted Image 20231125211729_832.png]]
 61dbd57c56047185a5e9505b8e70fec11960c911: [[Pasted Image 20231125212137_242.png]]
+0934d309066bd599d5b1f303122e12a4b665bbe7: [[Pasted Image 20231206085733_465.png]]
 
 %%
 # Drawing
@@ -468,8 +469,8 @@ e30176316bab514743b6a6a366547109c6e6ac8e: [[Pasted Image 20231125115048_235.png]
 		},
 		{
 			"type": "text",
-			"version": 16,
-			"versionNonce": 183674818,
+			"version": 18,
+			"versionNonce": 383760974,
 			"isDeleted": false,
 			"id": "8JkEIWY7",
 			"fillStyle": "solid",
@@ -489,7 +490,7 @@ e30176316bab514743b6a6a366547109c6e6ac8e: [[Pasted Image 20231125115048_235.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700918224295,
+			"updated": 1701862731120,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3712,32 +3713,32 @@ e30176316bab514743b6a6a366547109c6e6ac8e: [[Pasted Image 20231125115048_235.png]
 		},
 		{
 			"type": "image",
-			"version": 7,
-			"versionNonce": 2077881179,
-			"isDeleted": true,
-			"id": "dFfX7RC_Ycltf-CljvNGQ",
+			"version": 13,
+			"versionNonce": 1671149336,
+			"isDeleted": false,
+			"id": "Hdsdr7c3deovop0ZrXanO",
 			"fillStyle": "solid",
-			"strokeWidth": 2,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -299.4150008488241,
-			"y": -31.838541666666515,
+			"x": -1694.2483341821564,
+			"y": 539.3281250000005,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 627,
-			"height": 317,
-			"seed": 934575643,
+			"width": 883.9999999999999,
+			"height": 368,
+			"seed": 393113448,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701782718783,
+			"updated": 1701824246162,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "f4c725ac857163d7b045bfc28dc1886a5ef25f44",
+			"fileId": "0934d309066bd599d5b1f303122e12a4b665bbe7",
 			"scale": [
 				1,
 				1
@@ -3759,7 +3760,7 @@ e30176316bab514743b6a6a366547109c6e6ac8e: [[Pasted Image 20231125115048_235.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3297.915000848824,
+		"scrollX": 3554.915000848824,
 		"scrollY": 1273.4635416666665,
 		"zoom": {
 			"value": 0.25

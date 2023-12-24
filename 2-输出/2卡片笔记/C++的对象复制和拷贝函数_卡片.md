@@ -62,7 +62,7 @@ class house{
     house(const house& h):Area(h.Area),pkey(nullptr) //深拷贝函数
     {
         pkey = new int[Area];
-    }
+    } //重载构造函数
 };
 int main(){
     house h1(100);

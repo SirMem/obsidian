@@ -713,7 +713,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "---\ndue: <% tp.date.now(\"yyyy-MM-DD\") %> \n<%* let title = tp.file.title \nif (title.startsWith(\"Untitled\")){ title = await tp.system.prompt(\"Title\"); await tp.file.rename(title); } %>\ntitle: <% title%>\ntags: {{value:请输入标签，若有多个标签则一个逗号隔开继续输}} \n---\n\n\n#card\n\n"
+            "format": "---\ndue: <% tp.date.now(\"yyyy-MM-DD\") %> \n<%* let title = tp.file.title \nif (title.startsWith(\"Untitled\")){ title = await tp.system.prompt(\"Title\"); await tp.file.rename(title); } %>\ntitle: <% title%>\ntags: {{value:请输入标签，若有多个标签则一个逗号隔开继续输}} \n---\n\n\n\n\n"
           },
           "insertAfter": {
             "enabled": false,
@@ -805,7 +805,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "3过程跟踪/{{value:请输入项目名}}_跟踪.md",
+      "captureTo": "3-过程跟踪/{{value:请输入项目名}}_跟踪.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
@@ -815,6 +815,41 @@
       "format": {
         "enabled": true,
         "format": "---\ndue: <% tp.date.now(\"yyyy-MM-DD\") %> \n<%* let title = tp.file.title \nif (title.startsWith(\"Untitled\")){ title = await tp.system.prompt(\"Title\"); await tp.file.rename(title); } %>\ntitle: <% title%>\ntags: 过程跟踪\n---\n\n[[{{value:请输入链接名}}_卡片]]\n\n- [ ] 卡片笔记\n- [ ] 重述笔记\n- [ ] Anki笔记\n\n全完成后删除此文件\n\n\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "0d33e519-f215-4994-b3a2-aa52b8ce3940",
+      "name": "excalidraw题目",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "0-assets/excalidraw/题目/{{value:请输入名称}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "---\ndue: <% tp.date.now(\"yyyy-MM-DD\") %> \nexcalidraw-plugin: parsed\ntags: excalidraw {{value:标签}},题目 \n\n---\n==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==\n\n\n%%\n# Drawing\n```json\n{\"type\":\"excalidraw\",\"version\":2,\"source\":\"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23\",\"elements\":[],\"appState\":{\"gridSize\":null,\"viewBackgroundColor\":\"#ffffff\"}}\n```\n%%"
       },
       "insertAfter": {
         "enabled": false,
@@ -983,7 +1018,7 @@
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "1.6.0",
+  "version": "1.6.1",
   "disableOnlineFeatures": false,
   "ai": {
     "OpenAIApiKey": "",

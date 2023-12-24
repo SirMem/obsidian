@@ -214,6 +214,57 @@
       ],
       "id": "c0a05c5b-9928-41d8-9756-36ac21047b3c",
       "name": "输入面板"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "0-assets/excalidraw",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1f43ce0d-bce7-46e9-bacf-f0b0fe29ecca",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7bd69641-211a-4bad-a918-add4cc789f93",
+          "name": "日历",
+          "type": "calendar"
+        }
+      ],
+      "id": "a6f869fb-dfa7-4edc-83a6-087a12a0788d",
+      "name": "excalidraw"
     }
   ],
   "archives": [],

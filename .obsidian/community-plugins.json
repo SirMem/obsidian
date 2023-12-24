@@ -29,7 +29,6 @@
   "editing-toolbar",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
-  "flashcards-obsidian",
   "floating-toc",
   "homepage",
   "obsidian-hover-editor",
@@ -54,5 +53,8 @@
   "obsidian-bookmaster-plugin",
   "oz-clear-unused-images",
   "metaedit",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "excalibrain",
+  "hot-reload",
+  "flashcards-obsidian"
 ]

@@ -26,6 +26,12 @@
       "icon": "alert-octagon",
       "name": "Number Headings: Number all headings in document (and show options)",
       "mode": "any"
+    },
+    {
+      "id": "hot-reload:generate-flashcard-current-file",
+      "icon": "airplay",
+      "name": "Hot Reload: Generate for the current file",
+      "mode": "any"
     }
   ],
   "fileMenu": [

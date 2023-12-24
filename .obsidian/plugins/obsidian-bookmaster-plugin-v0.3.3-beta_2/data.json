@@ -1,0 +1,52 @@
+{
+  "deviceSetting": {
+    "8b89e8c0bf061bc4": {
+      "deviceName": "",
+      "bookVaultPaths": {
+        "00": "F:\\Books"
+      },
+      "bookViewerWorkerPath": "http://[fe80::73d6:e7d0:db8c:8b14]/bookviewer/"
+    }
+  },
+  "dataPath": "0-assets/bookmaster",
+  "showBookExts": [
+    "pdf",
+    "epub",
+    "txt",
+    "html",
+    "xlsx",
+    "xls",
+    "doc",
+    "docx",
+    "ppt",
+    "pptx",
+    "jpg",
+    "jpeg",
+    "png",
+    "bmp",
+    "jfif",
+    "wav",
+    "mp3",
+    "ogg",
+    "mp4"
+  ],
+  "openAllBookWithDefaultApp": false,
+  "openBookExtsWithDefaultApp": [],
+  "bookVaultNames": {
+    "00": "Books"
+  },
+  "currentBookVault": "00",
+  "bookTreeSortType": "PATH",
+  "bookTreeSortAsc": true,
+  "documentViewerTheme": "dark",
+  "recentBookNumberLimit": 20,
+  "pinProjectFile": false,
+  "annotationAuthor": "Guest",
+  "fixedAnnotationImageScale": 2,
+  "annotationTemplate": {
+    "pdf": {
+      "textAnnotation": "[{{content}}]({{url}})\n{{page}}\n{{comment}}\n\n",
+      "regionAnnotation": "![[{{img}}|{{width}}]]\n{{page}}\n{{comment}}\n\n"
+    }
+  }
+}
